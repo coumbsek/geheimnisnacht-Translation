@@ -1,0 +1,82 @@
+z_shadows_lore_magic_phase;Lore of Shadows Magic Phase.;;;;;;;;;;;;x
+z_shadows_lore_magic_phase_desc;Begin [Root.GetBestName]'s Lore of Shadows battle phase.;;;;;;;;;;;;x
+
+
+shadows_lore.1;The Winds of Magic!;;;;;;;;;;;;x
+shadows_lore.1_desc;The swirling essence of Chaos itself, the very winds of magic itelf flows through you with the energy of that accursed void. Their swirling energies are potent and rich, and the air crackles with these arcane and unfathomable energies of pure corruption, testing, tasting, twisting all the mundane world. Now is the moment of choice, the moment in which you must choose what to do next, to risk your very soul, and devestate your foe, or let these hideously uncontrollable energies subside.;;;;;;;;;;;;x
+shadows_lore.1a;I call on the winds!;;;;;;;;;;;;x
+shadows_lore.1b;I shall not cast at this time.;;;;;;;;;;;;x
+shadows_lore.1c;I like the energies to cast at this time. ;;;;;;;;;;;;x
+
+
+
+
+shadows_lore.2;Lore of Shadows.;;;;;;;;;;;;x
+shadows_lore.2_desc;To wield the Lore of Shadows is to call upon the stuff of darkness, to strike at the essence of hope, and inspire total misdirection. The shadows can hide many secrets, and when wielded as your blade the hope of your enemy soon departs.;;;;;;;;;;;;x
+shadows_lore.2a;Shadow Bolt.;;;;;;;;;;;;x
+shadows_lore.2b;Steed of Shadows.;;;;;;;;;;;;x
+shadows_lore.2c;Mortal Terror.;;;;;;;;;;;;x
+shadows_lore.2d;Wave of Darkness.;;;;;;;;;;;;x
+
+
+
+shadows_lore.100;Shadow Bolt.;;;;;;;;;;;;x
+shadows_lore.100_desc;Striking with the essence of the Shadows, Strike deep at your opposing armies morale, collapsing their very will to fight!;;;;;;;;;;;;x
+shadows_lore.100a;Fear ME!;;;;;;;;;;;;x
+
+
+shadows_lore.101;Shadow Bolt.;;;;;;;;;;;;x
+shadows_lore.101_desc;A shadowy blast of dark energy, this explosion of the shadows eats at the mind and weakens the heart.;;;;;;;;;;;;x
+shadows_lore.101a;Fear!;;;;;;;;;;;;x
+
+
+
+shadows_lore.200;Steed of Shadows.;;;;;;;;;;;;x
+shadows_lore.200_desc;Conjure a steed of the shadows to empower your movement!.;;;;;;;;;;;;x
+shadows_lore.200a;Onwards, To Victory!;;;;;;;;;;;;x
+
+
+shadows_lore.201;My Shadowy Steed!;;;;;;;;;;;;x
+shadows_lore.201_desc;The shadows themselves guide you on your way toward eternal glory!;;;;;;;;;;;;x
+shadows_lore.201a;Onwards my by big black stalion!;;;;;;;;;;;;x
+shadows_steed;Steed of Shadows;;;;;;;;;;;;x
+shadows_steed_desc;This wizard is riding a shadowy, unsubstantial mount.;;;;;;;;;;;;x
+
+
+
+shadows_lore.300;Mortal Terror.;;;;;;;;;;;;x
+shadows_lore.300_desc;Inspire the very terror of the darkness within the hearts of your enemies armies!.;;;;;;;;;;;;x
+shadows_lore.300a;I live and breathe within the darkness itself!;;;;;;;;;;;;x
+
+shadows_lore.301;I dwell in the mind!!;;;;;;;;;;;;x
+shadows_lore.301_desc;Within the shadows of the heart fear forever dwells, let it arise and strike at your soul!;;;;;;;;;;;;x
+shadows_lore.301a;BOOO!;;;;;;;;;;;;x
+
+
+
+
+
+
+shadows_lore.400;Wave of Darkness.;;;;;;;;;;;;x
+shadows_lore.400_desc;An overwelming shadow covers all the lands in a never ending darkness.;;;;;;;;;;;;x
+shadows_lore.400a;Let my reign begin!;;;;;;;;;;;;x
+
+shadows_lore.401;A never ending night!;;;;;;;;;;;;x
+shadows_lore.401_desc;Striking hard and long, the darkness seeps into mind and body, killing the heart and rending the flesh!;;;;;;;;;;;;x
+shadows_lore.401a;DEATH!;;;;;;;;;;;;x
+
+
+shadows_lore.500;Magic is Might!;;;;;;;;;;;;x
+shadows_lore.500_desc;Your magic has bubbled in your fingertips, leaving a growing feeling of the arcane, it is time now to choose what action you shall undertake next.;;;;;;;;;;;;x
+shadows_lore.500a;It is time to cast again!;;;;;;;;;;;;x
+shadows_lore.500b;I am done with spell casting.;;;;;;;;;;;;x
+
+shadows_lore.501;You Magic has been Dispeled.;;;;;;;;;;;;x
+shadows_lore.501_desc;To your horror your magic has been dispelled by an enemey caster.;;;;;;;;;;;;x
+shadows_lore.501a;Curses!.;;;;;;;;;;;;x
+
+
+shadows_lore.503;Magic is Might!;;;;;;;;;;;;x
+shadows_lore.503_desc;The smell of power hangs in the air, do you possess the daring and strength to cast again?.;;;;;;;;;;;;x
+shadows_lore.503a;It is time to cast again!;;;;;;;;;;;;x
+shadows_lore.503b;I am done with spell casting.;;;;;;;;;;;;x

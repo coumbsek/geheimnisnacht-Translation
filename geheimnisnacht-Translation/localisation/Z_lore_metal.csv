@@ -1,0 +1,61 @@
+z_metal_lore_magic_phase;Lore of Metal Magic Phase.;;;;;;;;;;;;x
+z_metal_lore_magic_phase_desc;Begin [Root.GetBestName]'s Lore of Metal battle phase.;;;;;;;;;;;;x
+
+metal_lore.1;The Winds of Magic!;;;;;;;;;;;;x
+metal_lore.1_desc;The swirling essence of Chaos itself, the very winds of magic itelf flows through you with the energy of that accursed void. Their swirling energies are potent and rich, and the air crackles with these arcane and unfathomable energies of pure corruption, testing, tasting, twisting all the mundane world. Now is the moment of choice, the moment in which you must choose what to do next, to risk your very soul, and devestate your foe, or let these hideously uncontrollable energies subside.;;;;;;;;;;;;x
+metal_lore.1a;I call on the winds!;;;;;;;;;;;;x
+metal_lore.1b;I shall not cast at this time.;;;;;;;;;;;;x
+metal_lore.1c;I like the energies to cast at this time. ;;;;;;;;;;;;x
+
+metal_lore.2;Lore of Metal.;;;;;;;;;;;;x
+metal_lore.2_desc;The Lore of Metal calls upon the powers of the gold wind to give control of the precious ores of the earth. Few enemies march to war without armour, and to wield the Lore of Metal is to turn this desperate protection into a death sentence. With this Lore you can slay your enemies and harden your defenses!;;;;;;;;;;;;x
+metal_lore.2a;Flesh to Gold.;;;;;;;;;;;;x
+metal_lore.2b;Weight of Iron.;;;;;;;;;;;;x
+metal_lore.2c;Curse of Rust.;;;;;;;;;;;;x
+metal_lore.2d;Blessings of Steel.;;;;;;;;;;;;x
+
+metal_lore.100;Flesh to Gold.;;;;;;;;;;;;x
+metal_lore.100_desc;A most horrific of deaths, this spell turns your enemies to gold, killing their troops and giving you gold!.;;;;;;;;;;;;x
+metal_lore.100a;Gold!;;;;;;;;;;;;x
+
+metal_lore.101;Transmogrification!.;;;;;;;;;;;;x
+metal_lore.101_desc;Flesh and bone and blood rapidly shift into precious metals, bring swift death to your foes.;;;;;;;;;;;;x
+metal_lore.101a;Die!;;;;;;;;;;;;x
+
+metal_lore.200;Weight of Iron!;;;;;;;;;;;;x
+metal_lore.200_desc;You greatly increase the weights of all metals in the province, slowing all movement within the province.;;;;;;;;;;;;x
+metal_lore.200a;You are stuck here with me!;;;;;;;;;;;;x
+
+metal_lore.201;Iron is my tool!;;;;;;;;;;;;x
+metal_lore.201_desc;The oppressive weight armour shall keep the armies in this location here for a while.;;;;;;;;;;;;x
+metal_lore.201a;Feel my fury!;;;;;;;;;;;;x
+
+metal_lore.300;Curse of Rust.;;;;;;;;;;;;x
+metal_lore.300_desc;By calling forth the Gold Wind for the briefest moment you decrease the armour of your enemies forces.;;;;;;;;;;;;x
+metal_lore.300a;You are as Stubble to our swords!;;;;;;;;;;;;x
+
+metal_lore.301;The Armour Bends!;;;;;;;;;;;;x
+metal_lore.301_desc;The nature of this spell is such that all foes now find their armour to be worthless!;;;;;;;;;;;;x
+metal_lore.301a;Death my friends is all you shall find now!;;;;;;;;;;;;x
+
+metal_lore.400;Blessings of Steel;;;;;;;;;;;;x
+metal_lore.400_desc;For a very short time, your armies armour is increased exponentially!;;;;;;;;;;;;x
+metal_lore.400a;Come get me now!;;;;;;;;;;;;x
+
+metal_lore.401;We are invincible!;;;;;;;;;;;;x
+metal_lore.401_desc;The powerful blessings of this spell, make your knights unmovable paragons of defense!;;;;;;;;;;;;x
+metal_lore.401a;Can any now stand before me!;;;;;;;;;;;;x
+
+metal_lore.500;Magic is Might!;;;;;;;;;;;;x
+metal_lore.500_desc;Your magic has bubbled in your fingertips, leaving a growing feeling of the arcane, it is time now to choose what action you shall undertake next.;;;;;;;;;;;;x
+metal_lore.500a;It is time to cast again!;;;;;;;;;;;;x
+metal_lore.500b;I am done with spell casting.;;;;;;;;;;;;x
+
+metal_lore.501;You Magic has been Dispeled.;;;;;;;;;;;;x
+metal_lore.501_desc;To your horror your magic has been dispelled by an enemey caster.;;;;;;;;;;;;x
+metal_lore.501a;Curses!.;;;;;;;;;;;;x
+
+metal_lore.503;Magic is Might!;;;;;;;;;;;;x
+metal_lore.503_desc;The smell of power hangs in the air, do you possess the daring and strength to cast again?.;;;;;;;;;;;;x
+metal_lore.503a;It is time to cast again!;;;;;;;;;;;;x
+metal_lore.503b;I am done with spell casting.;;;;;;;;;;;;x

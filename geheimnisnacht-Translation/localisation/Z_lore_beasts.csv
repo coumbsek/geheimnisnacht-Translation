@@ -1,0 +1,63 @@
+z_beasts_lore_magic_phase;Lore of Beasts Magic Phase.;;;;;;;;;;;;x
+z_beasts_lore_magic_phase_desc;Begin [Root.GetBestName]'s Lore of Beasts battle phase.;;;;;;;;;;;;x
+
+beasts_lore.1;The Winds of Magic!;;;;;;;;;;;;x
+beasts_lore.1_desc;The swirling essence of Chaos itself, the very winds of magic itelf flows through you with the energy of that accursed void. Their swirling energies are potent and rich, and the air crackles with these arcane and unfathomable energies of pure corruption, testing, tasting, twisting all the mundane world. Now is the moment of choice, the moment in which you must choose what to do next, to risk your very soul, and devestate your foe, or let these hideously uncontrollable energies subside.;;;;;;;;;;;;x
+beasts_lore.1a;I call on the winds!;;;;;;;;;;;;x
+beasts_lore.1b;I shall not cast at this time.;;;;;;;;;;;;x
+beasts_lore.1c;I like the energies to cast at this time. ;;;;;;;;;;;;x
+
+beasts_lore.2;Lore of Beasts.;;;;;;;;;;;;x
+beasts_lore.2_desc;The Lore of Beasts contains spells to call the primal beasts of the world to your command. From causing direct and viscious harm to your enemies, to summoning packs of wild war beasts, this lore is as diverse as it is powerful.;;;;;;;;;;;;x
+beasts_lore.2a;Wrath of Nature.;;;;;;;;;;;;x
+beasts_lore.2b;Beasts Gone Wild.;;;;;;;;;;;;x
+beasts_lore.2c;Servants of the Wild.;;;;;;;;;;;;x
+beasts_lore.2d;Transformation of Kadon.;;;;;;;;;;;;x
+
+beasts_lore.100;Wrath of Nature.;;;;;;;;;;;;x
+beasts_lore.100_desc;The assiduius might of the wrath of nature, strikes as beasts and other animals hurl themselves at your foe.;;;;;;;;;;;;x
+beasts_lore.100a;By the beasts of the wild, DIE!;;;;;;;;;;;;x
+
+beasts_lore.101;NOM NOM NOM!.;;;;;;;;;;;;x
+beasts_lore.101_desc;The screams of your foes as the beasts of the wild tear into them are something to behold..;;;;;;;;;;;;x
+beasts_lore.101a;MUAHAHAHA!;;;;;;;;;;;;x
+
+beasts_lore.200;Beasts gone WILD! .;;;;;;;;;;;;x
+beasts_lore.200_desc;Small critters and other innocuous life rush forth to consume supplies and food to make life just that miserable.;;;;;;;;;;;;x
+beasts_lore.200a;WHABBIT SEASON!;;;;;;;;;;;;x
+
+beasts_lore.201;DUCK SEASON!;;;;;;;;;;;;x
+beasts_lore.201_desc;As food and supplies run short your enemies shall starve!;;;;;;;;;;;;x
+beasts_lore.201a;FUDD SEASON!;;;;;;;;;;;;x
+
+beasts_lore.300;Servants of the Wild.;;;;;;;;;;;;x
+beasts_lore.300_desc;A powerful ability of a Beast Lore mage is to summon a permanent pack of wild beasts to form the core of a shocktroop for your army.;;;;;;;;;;;;x
+beasts_lore.300a;Even the beasts bend to my will!;;;;;;;;;;;;x
+
+beasts_lore.301;My are is the wild!;;;;;;;;;;;;x
+beasts_lore.301_desc;The beasts of the wild gnaw and groan, aching for the flesh of your enemies!;;;;;;;;;;;;x
+beasts_lore.301a;TO WAR MY MINIONS!;;;;;;;;;;;;x
+
+beasts_lore.400;Transformation of Kadon.;;;;;;;;;;;;x
+beasts_lore.400_desc;Unleash the very might of the beast within, take the form of a monstrous creature and watch your enemies die!.;;;;;;;;;;;;x
+beasts_lore.400a;I am become GOD!;;;;;;;;;;;;x
+
+beasts_lore.401;Rargghhgah!;;;;;;;;;;;;x
+beasts_lore.401_desc;The fog of the beast rapidly descends, transforming your mind!;;;;;;;;;;;;x
+beasts_lore.401a;Can any now stand before me!;;;;;;;;;;;;x
+beast_transformation;Transformation of Kadon;;;;;;;;;;;;x
+beast_transformation_desc;This wizard has shapeshifted into a monstrous creature.;;;;;;;;;;;;x
+
+beasts_lore.500;Magic is Might!;;;;;;;;;;;;x
+beasts_lore.500_desc;Your magic has bubbled in your fingertips, leaving a growing feeling of the arcane, it is time now to choose what action you shall undertake next.;;;;;;;;;;;;x
+beasts_lore.500a;It is time to cast again!;;;;;;;;;;;;x
+beasts_lore.500b;I am done with spell casting.;;;;;;;;;;;;x
+
+beasts_lore.501;You Magic has been Dispeled.;;;;;;;;;;;;x
+beasts_lore.501_desc;To your horror your magic has been dispelled by an enemey caster.;;;;;;;;;;;;x
+beasts_lore.501a;Curses!.;;;;;;;;;;;;x
+
+beasts_lore.503;Magic is Might!;;;;;;;;;;;;x
+beasts_lore.503_desc;The smell of power hangs in the air, do you possess the daring and strength to cast again?.;;;;;;;;;;;;x
+beasts_lore.503a;It is time to cast again!;;;;;;;;;;;;x
+beasts_lore.503b;I am done with spell casting.;;;;;;;;;;;;x

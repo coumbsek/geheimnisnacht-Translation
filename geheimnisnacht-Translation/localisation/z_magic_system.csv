@@ -1,0 +1,247 @@
+z_specify_target_decision;Choose Interaction Target.;;;;;;;;;;;;x
+designate_target.1;Select your Target.;;;;;;;;;;;;x
+designate_target.1a;Mark Target.;;;;;;;;;;;;x
+designate_target.1c;Clear Marked Target.;;;;;;;;;;;;x
+magic_system.99991;Miscast!.;;;;;;;;;;;;x
+magic_system.99991_desc;Infamy, Infamy, the damned Gods have it in for me!.;;;;;;;;;;;;x
+magic_system.99991a;Curses!.;;;;;;;;;;;;x
+
+magic_learn_power.1.0_desc;After After much work you have regained the powers your folly had lost.;;;;;;;;;;;;;; # Magic_Power_1 becomes Magic_Power_2
+magic_learn_power.1.1_desc;After many years of hard work and gruelling practice, you have increased your ability in the magical arts. No longer are you limited to casting only the most basic cantrips, and those who would oppose you should take heed of your new found eldritch power.;;;;;;;;;;;;;; # Magic_Power_1 becomes Magic_Power_2
+magic_learn_power.1.2_desc;After many years of hard work and gruelling practice, you have increased your ability in the magical arts. Your spells have reached dizzying heights that few may comprehend, and only fools would dare stand in your way now.;;;;;;;;;;;;;; # Magic_Power_2 becomes Magic_Power_3
+magic_learn_power.1.3_desc;After many years of hard work and gruelling practice, you have increased your ability in the magical arts. You are now one of the strongest spellcasters in the history of the world, and even the thought of defying your will causes terror.;;;;;;;;;;;;;; # Magic_Power_3 becomes Magic_Power_4
+magic_learn_power.1.4_desc;;;;;;;;;;;;;;;
+magic_learn_power.1a;I can feel the power!;;;;;;;;;;;;;;
+magic_learn_power.1b;This power is amazing!;;;;;;;;;;;;;;
+magic_learn_power.1c;Behold my phenominal cosmic power!;;;;;;;;;;;;;;
+magic_learn_power.99_desc;While contemplating the mysteries of the winds of magic, you have an epiphany regarding a magical theorem that had long evaded your grasp. You are now that much closer to becoming an even more powerful spellcaster.;;;;;;;;;;;;;;
+magic_learn_power.99a;This is an amazing breakthrough!;;;;;;;;;;;;;; #gain magic xp
+
+z_magic_phase;Cast Magic.;;;;;;;;;;;;x
+z_magic_phase_desc;Use the magic spells that [Root.GetBestName] knows.;;;;;;;;;;;;x
+
+magic_menu.0:Spells of Power;;;;;;;;;;;;x
+magic_menu.0_desc;Magic, a force most eldritch and mighty, it falls to you to command your wizard to direct these forces as you soo deem necessary. Choose from the known magics, and whether or not the magic shall find additional powers for their casting. ;;;;;;;;;;;;x
+magic_menu.0a;Battle Magic Loremaster;;;;;;;;;;;;x
+magic_menu.0b;Battle Magic;;;;;;;;;;;;x
+magic_menu.0c;Non Battle Magic Loremaster;;;;;;;;;;;;x
+magic_menu.0d;Non Battle Magic;;;;;;;;;;;;x
+magic_menu.1;Magic is Might!;;;;;;;;;;;;x
+magic_menu.1_desc;Beyond the usual wielding of spells for the winning of wars, your mages are fully capable of casting powerful effects in the service of the greater success of the realm. In this way, you as their liege can take actions to fuel the powe of their sorcery!;;;;;;;;;;;;x
+magic_menu.1a;Their powers alone are enough!;;;;;;;;;;;;x
+magic_menu.1a_desc;Your Mage shall wield only so much power as their abilities allow.;;;;;;;;;;;;x
+magic_menu.1b;I shall invest moderately in their success!;;;;;;;;;;;;x
+magic_menu.1b_desc;By a small outlay, your mage is capable of casting as if he had one extra level of magic power.;;;;;;;;;;;;x
+magic_menu.1c;I shall invest in their success!;;;;;;;;;;;;x
+magic_menu.1c_desc;By a larger outlay, your mage is capable of casting as if they had two extra levels of magic power.;;;;;;;;;;;;x
+magic_menu.1d;I shall invest substantially in their success!;;;;;;;;;;;;x
+magic_menu.1d_desc;By your supreme investment, your mage is capable of casting as if they had three extra levels of magic power.;;;;;;;;;;;;x
+magic_menu.200;Magic is Might;;;;;;;;;;;;x
+magic_menu.200_desc;To command the forces of magic is to command power most unnatural, by channelling and directing these eldritch forces, the laws of the world but melt away.;;;;;;;;;;;;x
+magic_menu.100;Magic is Might;;;;;;;;;;;;x
+magic_menu.100_desc;To command the forces of magic is to command power most unnatural, by channelling and directing these eldritch forces, the laws of the world but melt away.;;;;;;;;;;;;x
+magic_menu.100a;Lore of High Magic, Magic is Might!;;;;;;;;;;;;x
+magic_menu.100b;Lore of Dark Magic, Magic is Might!;;;;;;;;;;;;x
+magic_menu.100c;Lore of Necromancy, Magic is Might!;;;;;;;;;;;;x
+magic_menu.100d;Beasts Lore, Magic is Might!;;;;;;;;;;;;x
+magic_menu.100e;Heavens Lore, Magic is Might!;;;;;;;;;;;;x
+magic_menu.100f;Fire Lore, Magic is Might!;;;;;;;;;;;;x
+magic_menu.100g;Metal Lore, Magic is Might!;;;;;;;;;;;;x
+magic_menu.100h;Light Lore, Magic is Might!;;;;;;;;;;;;x
+magic_menu.100i;Shadows Lore, Magic is Might!;;;;;;;;;;;;x
+magic_menu.100j;Life Lore, Magic is Might!;;;;;;;;;;;;x
+magic_menu.100k;Death Lore, Magic is Might!;;;;;;;;;;;;x
+magic_menu.100l;Lore of the Horned Rat;;;;;;;;;;;;x
+magic_menu.100m;Lore of Nurgle;;;;;;;;;;;;x
+
+magic_menu.201;Master of the lore of the Arcane!;;;;;;;;;;;;x
+magic_menu.201_desc;Your mastery of the lores of magic is so unrivaled, you can with effort call upon the effects of not only High Magic, but all 8 of the winds of magic themselves!;;;;;;;;;;;;x
+magic_menu.101;Master of the lore of the Arcane!;;;;;;;;;;;;x
+magic_menu.101_desc;Your mastery of the lores of magic is so unrivaled, you can with effort call upon the effects of not only High Magic, but all 8 of the winds of magic themselves!;;;;;;;;;;;;x
+magic_menu.101a;Lore of High Magic, Magic is Might!;;;;;;;;;;;;x
+magic_menu.101b;Lore of the Beasts, Magic is Might!;;;;;;;;;;;;x
+magic_menu.101c;Lore of the Heavens, Magic is Might!;;;;;;;;;;;;x
+magic_menu.101d;Page 2;;;;;;;;;;;;x
+
+magic_menu.4d;Page 1;;;;;;;;;;;;x
+z_magic_phase;Magic Phase.;;;;;;;;;;;;x
+z_desc;Begin [Root.GetBestName]'s spellcasting battle phase.;;;;;;;;;;;;x
+
+magic_cooldown;Magic Cooldown;;;;;;;;;;;;x
+magic_cooldown_desc;;;;;;;;;;;;;x
+dispel_cooldown;Dispelling Cooldown;;;;;;;;;;;;x
+dispel_cooldown_desc;;;;;;;;;;;;;x
+
+magic_drain_1;Magic Drain: 1;;;;;;;;;;;;x
+magic_drain_1_desc;;;;;;;;;;;;;x
+magic_drain_2;Magic Drain: 2;;;;;;;;;;;;x
+magic_drain_2_desc;;;;;;;;;;;;;x
+magic_drain_3;Magic Drain: 3;;;;;;;;;;;;x
+magic_drain_3_desc;;;;;;;;;;;;;x
+magic_drain_4;Magic Drain: 4;;;;;;;;;;;;x
+magic_drain_4_desc;;;;;;;;;;;;;x
+
+warp_stone_1;Warpstone: 1;;;;;;;;;;;;x
+warp_stone_1_desc;;;;;;;;;;;;;x
+warp_stone_2;Warpstone: 2;;;;;;;;;;;;x
+warp_stone_2_desc;;;;;;;;;;;;;x
+warp_stone_3;Warpstone: 3;;;;;;;;;;;;x
+warp_stone_3_desc;;;;;;;;;;;;;x
+warp_stone_4;Warpstone: 4;;;;;;;;;;;;x
+warp_stone_4_desc;;;;;;;;;;;;;x
+warp_stone_5;Warpstone: 5;;;;;;;;;;;;x
+warp_stone_5_desc;;;;;;;;;;;;;x
+
+magic_lore_heavens_foresight_tactics;Harmonic Convergence;;;;;;;;;;;;x
+magic_lore_heavens_foresight_tactics_desc;This wizard is guiding the minds of their fellow warriors.;;;;;;;;;;;;x
+
+magic_lore_fire_burning_blade;Flaming Sword of Rhuin;;;;;;;;;;;;x
+magic_lore_fire_burning_blade_desc;This wizard has enchanted his allies' weapons with fire magic.;;;;;;;;;;;;x
+
+magic_lore_light_wall;Wall of Light;;;;;;;;;;;;x
+magic_lore_light_wall_desc;This wizard has made his fellow warriors as fast as the Light.;;;;;;;;;;;;x
+
+magic_lore_light_assault;Speed of Light;;;;;;;;;;;;x
+magic_lore_light_assault_desc;This wizard has called upon the Wind of Hysh to protect and empower his allies.;;;;;;;;;;;;x
+
+lore_of_death_wall;Ward of Death;;;;;;;;;;;;x
+lore_of_death_wall_desc;This wizard is channelling death itself in order to slow their enemies.;;;;;;;;;;;;x
+
+lore_of_beasts_nature_gone_wild;Beasts gone Wild;;;;;;;;;;;;x
+lore_of_beasts_nature_gone_wild_desc;An Amber Wizard has sent all critters and small animals in this province into a feeding frenzy, depleting its supplies.;;;;;;;;;;;;x
+
+lore_of_metal_weight_of_iron;Weight of Iron;;;;;;;;;;;;x
+lore_of_metal_weight_of_iron_desc;A Gold Wizard has increased the weight of all metal in this province, slowing down all military movement.;;;;;;;;;;;;x
+
+lore_of_metal_curse_of_rust;Curse of Rust;;;;;;;;;;;;x
+lore_of_metal_curse_of_rust_desc;A Gold Wizard has cursed this character and their troops by rusting their armour and weapons.;;;;;;;;;;;;x
+
+lore_of_metal_blessing_of_steel;Blessings of Steel;;;;;;;;;;;;x
+lore_of_metal_blessing_of_steel_desc;This wizard has hardened the metals composing the armours of their allies.;;;;;;;;;;;;x
+
+lore_of_shadow_mortal_terror;Mortal Terror;;;;;;;;;;;;x
+lore_of_shadow_mortal_terror_desc;A Grey Wizard has casted an illusion of this character's worst terrors, plowing down theirs and their allies' morale.;;;;;;;;;;;;x
+
+magic_menu.202;Master of the lore of the Arcane!;;;;;;;;;;;;x
+magic_menu.202_desc;Your mastery of the lores of magic is so unrivaled, you can with effort call upon the effects of not only High Magic, but all 8 of the winds of magic themselves!;;;;;;;;;;;;x
+magic_menu.102;Master of the lore of the Arcane!;;;;;;;;;;;;x
+magic_menu.102_desc;Your mastery of the lores of magic is so unrivaled, you can with effort call upon the effects of not only High Magic, but all 8 of the winds of magic themselves!;;;;;;;;;;;;x
+magic_menu.102a;Fire Lore, Magic is Might!;;;;;;;;;;;;x
+magic_menu.102b;Metal Lore, Magic is Might!;;;;;;;;;;;;x
+magic_menu.102c;Light Lore, Magic is Might!;;;;;;;;;;;;x
+magic_menu.102d;Page 3;;;;;;;;;;;;x
+
+magic_menu.203;Master of the lore of the Arcane!;;;;;;;;;;;;x
+magic_menu.203_desc;Your mastery of the lores of magic is so unrivaled, you can with effort call upon the effects of not only High Magic, but all 8 of the winds of magic themselves!;;;;;;;;;;;;x
+magic_menu.103;Master of the lore of the Arcane!;;;;;;;;;;;;x
+magic_menu.103_desc;Your mastery of the lores of magic is so unrivaled, you can with effort call upon the effects of not only High Magic, but all 8 of the winds of magic themselves!;;;;;;;;;;;;x
+magic_menu.103a;Shadows Lore Lore, Magic is Might!;;;;;;;;;;;;x
+magic_menu.103b;Life Lore, Magic is Might!;;;;;;;;;;;;x
+magic_menu.103c;Death Lore, Magic is Might!;;;;;;;;;;;;x
+magic_menu.103d;Page 1;;;;;;;;;;;;x
+
+magic_menu.1000;Choose your target.;;;;;;;;;;;;x
+magic_menu.1000_desc;As you have not selected a target using the target designation menu, you can now choose from a limited selection of characters possible targets.;;;;;;;;;;;;x
+magic_menu.1000a;Target Others;;;;;;;;;;;;x
+magic_menu.1000b;Target Self;;;;;;;;;;;;x
+magic_menu.1000c;I do not want to cast;;;;;;;;;;;;x
+
+magic_menu.1001;Target Others;;;;;;;;;;;;x
+magic_menu.1001_desc;Select your prefered target, either members of your realm, characters with whom you are at war or in conflict with. Or instead choose to target your friends and family.;;;;;;;;;;;;x
+magic_menu.1001a;Target Realm;;;;;;;;;;;;x
+magic_menu.1001b;Target Foes;;;;;;;;;;;;x
+magic_menu.1001c;Target Friends and Family.;;;;;;;;;;;;x
+magic_menu.1001d;Cast on yourself/Cancel;;;;;;;;;;;;x
+
+magic_menu.1100;Target Realm;;;;;;;;;;;;x
+magic_menu.1100_desc;Choose from the below to target members of your realm that meet the criteria;;;;;;;;;;;;x
+magic_menu.1100a;Target your Liege;;;;;;;;;;;;x
+magic_menu.1100b;Target a member of your council;;;;;;;;;;;;x
+magic_menu.1100c;Choose one of your vassals;;;;;;;;;;;;x
+magic_menu.1100d;Next Menu;;;;;;;;;;;;x
+
+magic_menu.1101;Target Realm;;;;;;;;;;;;x
+magic_menu.1101_desc;Choose from the below to target members of your realm that meet the criteria;;;;;;;;;;;;x
+magic_menu.1101a;Any Realm Character;;;;;;;;;;;;x
+magic_menu.1101b;Back to menu;;;;;;;;;;;;x
+
+magic_menu.1120;Your Council Members;;;;;;;;;;;;x
+magic_menu.1120_desc;Select an availiable council member to target.;;;;;;;;;;;;x
+magic_menu.1120a;Target [target_1.GetBestName];;;;;;;;;;;;x
+magic_menu.1120b;Target [target_2.GetBestName];;;;;;;;;;;;x
+magic_menu.1120c;Target [target_3.GetBestName];;;;;;;;;;;;x
+magic_menu.1120d;More Options;;;;;;;;;;;;x
+magic_menu.1120e;There were no appropriate choices.;;;;;;;;;;;;x
+
+magic_menu.1130;Your Vassals;;;;;;;;;;;;x
+magic_menu.1130_desc;Select a suitable vassal.;;;;;;;;;;;;x
+magic_menu.1130a;Target [target_1.GetBestName];;;;;;;;;;;;x
+magic_menu.1130b;Target [target_2.GetBestName];;;;;;;;;;;;x
+magic_menu.1130c;Target [target_3.GetBestName];;;;;;;;;;;;x
+magic_menu.1130d;More Options;;;;;;;;;;;;x
+magic_menu.1130e;There were no appropriate choices.;;;;;;;;;;;;x
+
+
+magic_menu.1140;Random Realm Target;;;;;;;;;;;;x
+magic_menu.1140_desc;Select an appropriate realm character.;;;;;;;;;;;;x
+magic_menu.1140a;Target [target_1.GetBestName];;;;;;;;;;;;x
+magic_menu.1140b;Target [target_2.GetBestName];;;;;;;;;;;;x
+magic_menu.1140c;Target [target_3.GetBestName];;;;;;;;;;;;x
+magic_menu.1140d;More Options;;;;;;;;;;;;x
+magic_menu.1140e;There were no appropriate choices.;;;;;;;;;;;;x
+
+magic_menu.1200;Foes;;;;;;;;;;;;x
+magic_menu.1200_desc;Select the desired foe to be the victim of your spells, your rivals and those who have wronged you.;;;;;;;;;;;;x
+magic_menu.1200a;Current Enemies;;;;;;;;;;;;x
+magic_menu.1200b;Criminals and Rivals;;;;;;;;;;;;x
+magic_menu.1200c;Any Warring Lord;;;;;;;;;;;;x
+magic_menu.1200d;Back to Menu.;;;;;;;;;;;;x
+
+magic_menu.1210;Current Enemies;;;;;;;;;;;;x
+magic_menu.1210_desc;Select an availiable current enemy to target.;;;;;;;;;;;;x
+magic_menu.1210a;Target [target_1.GetBestName];;;;;;;;;;;;x
+magic_menu.1210b;Target [target_2.GetBestName];;;;;;;;;;;;x
+magic_menu.1210c;Target [target_3.GetBestName];;;;;;;;;;;;x
+magic_menu.1210d;More Options;;;;;;;;;;;;x
+
+magic_menu.1220;Current Enemies;;;;;;;;;;;;x
+magic_menu.1220_desc;Select an availiable criminal or rival to target.;;;;;;;;;;;;x
+magic_menu.1220a;Target [target_1.GetBestName];;;;;;;;;;;;x
+magic_menu.1220b;Target [target_2.GetBestName];;;;;;;;;;;;x
+magic_menu.1220c;Target [target_3.GetBestName];;;;;;;;;;;;x
+magic_menu.1220d;More Options;;;;;;;;;;;;x
+
+magic_menu.1230;Enemy Warriors;;;;;;;;;;;;x
+magic_menu.1230_desc;Select an availiable Enemy Warrior to target.;;;;;;;;;;;;x
+magic_menu.1230a;Target [target_1.GetBestName];;;;;;;;;;;;x
+magic_menu.1230b;Target [target_2.GetBestName];;;;;;;;;;;;x
+magic_menu.1230c;Target [target_3.GetBestName];;;;;;;;;;;;x
+magic_menu.1230d;More Options;;;;;;;;;;;;x
+
+magic_menu.1300;Family and Friends;;;;;;;;;;;;x
+magic_menu.1300_desc;Select the desired friend or family member to be the victim of your spells, your rivals and those who have wronged you.;;;;;;;;;;;;x
+magic_menu.1300a;Spouses;;;;;;;;;;;;x
+magic_menu.1300b;Friends;;;;;;;;;;;;x
+magic_menu.1300c;Wards/dynasty;;;;;;;;;;;;x
+magic_menu.1300d;Back to Menu.;;;;;;;;;;;;x
+
+magic_menu.1310;Spouses;;;;;;;;;;;;x
+magic_menu.1310_desc;Select an availiable spouse to target.;;;;;;;;;;;;x
+magic_menu.1310a;Target [target_1.GetBestName];;;;;;;;;;;;x
+magic_menu.1310b;Target [target_2.GetBestName];;;;;;;;;;;;x
+magic_menu.1310c;Target [target_3.GetBestName];;;;;;;;;;;;x
+magic_menu.1310d;More Options;;;;;;;;;;;;x
+
+magic_menu.1320;Current Friends;;;;;;;;;;;;x
+magic_menu.1320_desc;Select an availiable friend to target.;;;;;;;;;;;;x
+magic_menu.1320a;Target [target_1.GetBestName];;;;;;;;;;;;x
+magic_menu.1320b;Target [target_2.GetBestName];;;;;;;;;;;;x
+magic_menu.1320c;Target [target_3.GetBestName];;;;;;;;;;;;x
+magic_menu.1320d;More Options;;;;;;;;;;;;x
+
+magic_menu.1330;Wards/dynasty;;;;;;;;;;;;x
+magic_menu.1330_desc;Select an availiable  dynasty member or ward to target.;;;;;;;;;;;;x
+magic_menu.1330a;Target [target_1.GetBestName];;;;;;;;;;;;x
+magic_menu.1330b;Target [target_2.GetBestName];;;;;;;;;;;;x
+magic_menu.1330c;Target [target_3.GetBestName];;;;;;;;;;;;x
+magic_menu.1330d;More Options;;;;;;;;;;;;x

@@ -1,0 +1,32 @@
+z_loremaster_tools;Lore Master;;;;;;;;;;;;x
+z_loremaster_tools_desc;As a master of Magic, you have a unique power to determine your own magical destiny, both your power and your chosen skills.;;;;;;;;;;;;x 
+loremaster.1;Lore Master;;;;;;;;;;;;x
+loremaster.1_desc;As a Master of Magic, you can configure your magic ability!;;;;;;;;;;;;x
+loremaster.1a;Magic Power;;;;;;;;;;;;x
+loremaster.1b;Magic Lore;;;;;;;;;;;;x
+loremaster.1c;Magic Cooldown;;;;;;;;;;;;x
+
+loremaster.2;Magic Power;;;;;;;;;;;;x 
+loremaster.2_desc;Each use of this option will booost your magic power;;;;;;;;;;;;x
+loremaster.2a;Increase Power;;;;;;;;;;;;x
+
+loremaster.3;Magic Lore;;;;;;;;;;;;x
+loremaster.3_desc;Choose your Magic Lore;;;;;;;;;;;;x
+loremaster.3a;High Magic;;;;;;;;;;;;x
+loremaster.3b;Lore of Heavens;;;;;;;;;;;;x
+loremaster.3c;Lore of Beasts;;;;;;;;;;;;x
+loremaster.3d;Next;;;;;;;;;;;;x
+
+loremaster.4;Magic Lore;;;;;;;;;;;;x
+loremaster.4_desc;Choose your Magic Lore;;;;;;;;;;;;x
+loremaster.4a;Lore of Fire;;;;;;;;;;;;x
+loremaster.4b;Lore of Metal;;;;;;;;;;;;x
+loremaster.4c;Lore of Life;;;;;;;;;;;;x
+loremaster.4d;Next;;;;;;;;;;;;x
+
+loremaster.5;Magic Lore;;;;;;;;;;;;x
+loremaster.5_desc;Choose your Magic Lore;;;;;;;;;;;;x
+loremaster.5a;Lore of Shadows;;;;;;;;;;;;x
+loremaster.5b;Lore of Light;;;;;;;;;;;;x
+loremaster.5c;Lore of Death;;;;;;;;;;;;x
+loremaster.5d;Next;;;;;;;;;;;;x

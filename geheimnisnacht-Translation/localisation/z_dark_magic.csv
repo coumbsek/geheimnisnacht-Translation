@@ -1,0 +1,64 @@
+z_dark_magic_lore_magic_phase;Dark Magic Magic Phase.;;;;;;;;;;;;x
+z_dark_magic_lore_magic_phase_desc;Begin [Root.GetBestName]'s Dark Magic battle phase.;;;;;;;;;;;;x
+
+dark_magic_lore.1;The Winds of Magic!;;;;;;;;;;;;x
+dark_magic_lore.1_desc;The swirling essence of Chaos itself, the very winds of magic itelf flows through you with the energy of that accursed void. Their swirling energies are potent and rich, and the air crackles with these arcane and unfathomable energies of pure corruption, testing, tasting, twisting all the mundane world. Now is the moment of choice, the moment in which you must choose what to do next, to risk your very soul, and devestate your foe, or let these hideously uncontrollable energies subside.;;;;;;;;;;;;x
+dark_magic_lore.1a;I call on the winds!;;;;;;;;;;;;x
+dark_magic_lore.1b;I shall not cast at this time.;;;;;;;;;;;;x
+dark_magic_lore.1c;I like the energies to cast at this time. ;;;;;;;;;;;;x
+
+dark_magic_lore.2;Dark Magic.;;;;;;;;;;;;x
+dark_magic_lore.2_desc;Unlike other examples of the mystical arts, Dark Magic does not draw on one of the eight winds of magic, instead it draws from all eight winds. Unlike High Magic however, this flow of power is deliberately unstable, creating the single most powerful, yet hideously unstable of the magic arts. Use this almighty power to bludgeon all your enemies, let your powers flow without restriction or without subjugation and watch the rivers of blood begin to pool.;;;;;;;;;;;;x
+dark_magic_lore.2a;Cast Doombolt.;;;;;;;;;;;;x
+dark_magic_lore.2b;Cast Dark Fury.;;;;;;;;;;;;x
+dark_magic_lore.2c;Cast Bladewind.;;;;;;;;;;;;x
+dark_magic_lore.2d;Cast Amzipal's Black Horror.;;;;;;;;;;;;x
+dark_magic_lore.2a_desc;Doombolt, a strong overwelming magic missile.;;;;;;;;;;;;x
+dark_magic_lore.2b_desc;Dark Fury, fire a volley of slightly weaker Doombolts!.;;;;;;;;;;;;x
+dark_magic_lore.2c_desc;Bladewind, unleash a flurry of strikes that will hit a random number of times.;;;;;;;;;;;;x
+dark_magic_lore.2d_desc;Amzipal's Black Horror, an unholy moving vortex of doom that consumes your enemies.;;;;;;;;;;;;x
+
+dark_magic_lore.101;Doombolt.;;;;;;;;;;;;x
+dark_magic_lore.100_desc;Pulling, twisting, tangling, you pull the energies of Chaos itself together once more and let it pool around you!;;;;;;;;;;;;x
+dark_magic_lore.100a;Doombolt.;;;;;;;;;;;;x
+dark_magic_lore.101;Doombolt.;;;;;;;;;;;;x
+dark_magic_lore.101_desc;The viscious tangling energies of unbrindled darkness surge forth, consuming and mutilating all that it touches.;;;;;;;;;;;;x
+dark_magic_lore.101a;Victory!;;;;;;;;;;;;x
+
+dark_magic_lore.200;Dark Fury.;;;;;;;;;;;;x
+dark_magic_lore.200_desc;You pool the darkness around you, letting it begin to settle into descrete forms.;;;;;;;;;;;;x
+dark_magic_lore.200a;Feel my Fury!;;;;;;;;;;;;x
+
+dark_magic_lore.201;And may you know death!;;;;;;;;;;;;x
+dark_magic_lore.201_desc;In rapid succession your powers flow from your fingertips, striking repeatedly!;;;;;;;;;;;;x
+dark_magic_lore.201a;Death!;;;;;;;;;;;;x
+
+dark_magic_lore.300;Bladewind.;;;;;;;;;;;;x
+dark_magic_lore.300_desc;Conjuring forth the essence of darkness, your storm of unholy power fights with your will to be unleashed.;;;;;;;;;;;;x
+dark_magic_lore.300a;A wind of blades!;;;;;;;;;;;;x
+
+dark_magic_lore.301;SLICE AND DICE!;;;;;;;;;;;;x
+dark_magic_lore.301_desc;The impressive power constrained in your unholy storm reaches forth, cutting an untold number of times!;;;;;;;;;;;;x
+dark_magic_lore.301a;FLEE BEFORE MY MAJESTY!;;;;;;;;;;;;x
+
+dark_magic_lore.400;Amzipal's Black Horror.;;;;;;;;;;;;x
+dark_magic_lore.400_desc;You focus the darkness before you upon a single point, letting the untold mass of pure evil take form in the world.;;;;;;;;;;;;x
+dark_magic_lore.400a;MUAHAHAHA!;;;;;;;;;;;;x
+
+dark_magic_lore.401;AND ALL RETURNS TO THE ABYSS!;;;;;;;;;;;;x
+dark_magic_lore.401_desc;The great and untold horror of your personal abyss reaches forth, striking and taking those who stand forth into nothing itself!;;;;;;;;;;;;x
+dark_magic_lore.401a;I BANISH YEE INTO THE ABYSS!;;;;;;;;;;;;x
+
+dark_magic_lore.500;Magic is Might!;;;;;;;;;;;;x
+dark_magic_lore.500_desc;Your magic has bubbled in your fingertips, leaving a growing feeling of the arcane, it is time now to choose what action you shall undertake next.;;;;;;;;;;;;x
+dark_magic_lore.500a;It is time to cast again!;;;;;;;;;;;;x
+dark_magic_lore.500b;I am done with spell casting.;;;;;;;;;;;;x
+
+dark_magic_lore.501;You Magic has been Dispeled.;;;;;;;;;;;;x
+dark_magic_lore.501_desc;To your horror your magic has been dispelled by an enemey caster.;;;;;;;;;;;;x
+dark_magic_lore.501a;Curses!.;;;;;;;;;;;;x
+
+dark_magic_lore.503;Magic is Might!;;;;;;;;;;;;x
+dark_magic_lore.503_desc;The smell of power hangs in the air, do you possess the daring and strength to cast again?.;;;;;;;;;;;;x
+dark_magic_lore.503a;It is time to cast again!;;;;;;;;;;;;x
+dark_magic_lore.503b;I am done with spell casting.;;;;;;;;;;;;x

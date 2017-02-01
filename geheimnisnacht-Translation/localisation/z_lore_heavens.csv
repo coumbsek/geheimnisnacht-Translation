@@ -1,0 +1,81 @@
+z_heavens_lore_magic_phase;Lore of the Heavens Magic Phase.;;;;;;;;;;;;x
+z_heavens_lore_magic_phase_desc;Begin [Root.GetBestName]'s Lore of the Heavens battle phase.;;;;;;;;;;;;x
+
+
+heavens_lore.1;The Winds of Magic!;;;;;;;;;;;;x
+heavens_lore.1_desc;The swirling essence of Chaos itself, the very winds of magic itelf flows through you with the energy of that accursed void. Their swirling energies are potent and rich, and the air crackles with these arcane and unfathomable energies of pure corruption, testing, tasting, twisting all the mundane world. Now is the moment of choice, the moment in which you must choose what to do next, to risk your very soul, and devestate your foe, or let these hideously uncontrollable energies subside.;;;;;;;;;;;;x
+heavens_lore.1a;I call on the winds!;;;;;;;;;;;;x
+heavens_lore.1b;I shall not cast at this time.;;;;;;;;;;;;x
+heavens_lore.1c;I like the energies to cast at this time. ;;;;;;;;;;;;x
+
+
+
+
+heavens_lore.2;Lore of the Heavens.;;;;;;;;;;;;x
+heavens_lore.2_desc;To wield the Lore of the Heavens is to wield the power of the cosmos, to channel forces even more arcane than other more terrestrially bound magics. You call forth the devestating furies of the heavens, and even augur the future to your advantage. The penultimate power of mage of the heavens is to call down a Comet and shatter asunder the earth and the armies that dare defy your power.;;;;;;;;;;;;x
+heavens_lore.2a;Foresight.;;;;;;;;;;;;x
+heavens_lore.2b;Urannon's Thunderbolt.;;;;;;;;;;;;x
+heavens_lore.2c;Chain Lightning.;;;;;;;;;;;;x
+heavens_lore.2d;Comet of Cassondora.;;;;;;;;;;;;x
+
+
+
+heavens_lore.100;Foresight.;;;;;;;;;;;;x
+heavens_lore.100_desc;Looking to the heavens, you read the flow of battle before it comes, meeting thrusts before they are made!.;;;;;;;;;;;;x
+heavens_lore.100a;Finis Facit Fidem!;;;;;;;;;;;;x
+
+heavens_lore.101;Foresight.;;;;;;;;;;;;x
+heavens_lore.101_desc;The true benefit of the knowledge of the heavens is not be found in absolute victory, but in solid reaction to the otherwise unexpected.;;;;;;;;;;;;x
+heavens_lore.101a;Finis Facit Fidem!;;;;;;;;;;;;x
+
+
+
+heavens_lore.200;Urannon's Thunderbolt.;;;;;;;;;;;;x
+heavens_lore.200_desc;Calling on the might of the heavens themselves, you invoke the unlimited power of the thunderbolt to crush your enemies and break their walls asunder!;;;;;;;;;;;;x
+heavens_lore.200a;The Heavens Shake in my fury!;;;;;;;;;;;;x
+
+
+heavens_lore.201;The Might of the Heavens is revealed!;;;;;;;;;;;;x
+heavens_lore.201_desc;Like nothing else, the unlimited power of the lightning crashes upon your foes, burning and crushing and shattering entirely their ability to resist.;;;;;;;;;;;;x
+heavens_lore.201a;See me and despair!;;;;;;;;;;;;x
+
+
+
+
+heavens_lore.300;Chain Lightning.;;;;;;;;;;;;x
+heavens_lore.300_desc;The fury of heavens is an unending torrent!.;;;;;;;;;;;;x
+heavens_lore.300a;And now you shall know the power!;;;;;;;;;;;;x
+
+heavens_lore.301;Like frost to the powers of the gods!!;;;;;;;;;;;;x
+heavens_lore.301_desc;And now you shall know the power of this armed and fully operational Celestial Mage!;;;;;;;;;;;;x
+heavens_lore.301a;UNLIMITED POWER!;;;;;;;;;;;;x
+
+
+
+
+
+
+heavens_lore.400;Comet of Cassondora.;;;;;;;;;;;;x
+heavens_lore.400_desc;Let this mighty stone be a lesson to all who would oppose me!.;;;;;;;;;;;;x
+heavens_lore.400a;By death or by glory!;;;;;;;;;;;;x
+
+heavens_lore.401;A new moon falls!;;;;;;;;;;;;x
+heavens_lore.401_desc;A celestial body itself, wielded as the ultimate weapn of the ultimate war!;;;;;;;;;;;;x
+heavens_lore.401a;Facillis Descensus Averno!;;;;;;;;;;;;x
+
+
+heavens_lore.500;Magic is Might!;;;;;;;;;;;;x
+heavens_lore.500_desc;Your magic has bubbled in your fingertips, leaving a growing feeling of the arcane, it is time now to choose what action you shall undertake next.;;;;;;;;;;;;x
+heavens_lore.500a;It is time to cast again!;;;;;;;;;;;;x
+heavens_lore.500b;I am done with spell casting.;;;;;;;;;;;;x
+
+heavens_lore.501;You Magic has been Dispeled.;;;;;;;;;;;;x
+heavens_lore.501_desc;To your horror your magic has been dispelled by an enemey caster.;;;;;;;;;;;;x
+heavens_lore.501a;Curses!.;;;;;;;;;;;;x
+
+
+
+heavens_lore.503;Magic is Might!;;;;;;;;;;;;x
+heavens_lore.503_desc;The smell of power hangs in the air, do you possess the daring and strength to cast again?.;;;;;;;;;;;;x
+heavens_lore.503a;It is time to cast again!;;;;;;;;;;;;x
+heavens_lore.503b;I am done with spell casting.;;;;;;;;;;;;x

@@ -1,0 +1,61 @@
+z_nurgle_lore_magic_phase;Lore of Nurgle Magic Phase.;;;;;;;;;;;;x
+z_nurgle_lore_magic_phase_desc;Begin [Root.GetBestName]'s Lore of Nurgle battle phase.;;;;;;;;;;;;x
+
+nurgle_lore.1;The Winds of Magic!;;;;;;;;;;;;x
+nurgle_lore.1_desc;The swirling essence of Chaos itself, the very winds of magic itelf flows through you with the energy of that accursed void. Their swirling energies are potent and rich, and the air crackles with these arcane and unfathomable energies of pure corruption, testing, tasting, twisting all the mundane world. Now is the moment of choice, the moment in which you must choose what to do next, to risk your very soul, and devestate your foe, or let these hideously uncontrollable energies subside.;;;;;;;;;;;;x
+nurgle_lore.1a;I call on the winds!;;;;;;;;;;;;x
+nurgle_lore.1b;I shall not cast at this time.;;;;;;;;;;;;x
+nurgle_lore.1c;I lack the energies to cast at this time. ;;;;;;;;;;;;x
+
+nurgle_lore.2;Lore of Nurgle.;;;;;;;;;;;;x
+nurgle_lore.2_desc;The Lore of Nurgle the unholy might of disease and pestilence from the loving Plague Father. A mage wielding these powers wields tremendous power, unmatched in the sheer suffering that can be inflicted. To call upon the Lore of Nurgle is to summon unequalled horror, the unstoppable tide of pestilence.;;;;;;;;;;;;x
+nurgle_lore.2a;Bolt of Rot.;;;;;;;;;;;;x
+nurgle_lore.2b;Loving Embrace of Grandfather Nurgle.;;;;;;;;;;;;x
+nurgle_lore.2c;Nurgle Plague Bearers.;;;;;;;;;;;;x
+nurgle_lore.2d;Maw of Disease.;;;;;;;;;;;;x
+
+nurgle_lore.100;Bolt of Rot;;;;;;;;;;;;x
+nurgle_lore.100_desc;The raw stuff of Nurgle's essence rolls forth from your fingertips, being flung as a tangible ball of disease, rotting what it touces.!;;;;;;;;;;;;x
+nurgle_lore.100a;I consume all!;;;;;;;;;;;;x
+
+nurgle_lore.101;Imbide Life.;;;;;;;;;;;;x
+nurgle_lore.101_desc;Disease and decay drips from your fingers, the bolt of raw pestilence arcs through the sky, your enemy is struck and the very ground around you withers and dies as disease rushes forth!;;;;;;;;;;;;x
+nurgle_lore.101a;Fear!;;;;;;;;;;;;x
+
+nurgle_lore.200;Loving Embrace of Grandfather Nurgle.;;;;;;;;;;;;x
+nurgle_lore.200_desc;The all loving embrace of the father of disease rushes forth, your forces are renewed and your courage returns.;;;;;;;;;;;;x
+nurgle_lore.200a;Onwards, To Victory!;;;;;;;;;;;;x
+
+nurgle_lore.201;Unholy Life!;;;;;;;;;;;;x
+nurgle_lore.201_desc;Your forces are renewed in spirit as in body, and the unstoppable march of decay continues!;;;;;;;;;;;;x
+nurgle_lore.201a;For the Grandfather!;;;;;;;;;;;;x
+
+nurgle_lore.300;Plaguebearers;;;;;;;;;;;;x
+nurgle_lore.300_desc;From the unholy pits, daemon servants march forth to war.;;;;;;;;;;;;x
+nurgle_lore.300a;With these unfathomables, I shall be victorious!;;;;;;;;;;;;x
+
+nurgle_lore.301;A Horde of the damned and shambling!;;;;;;;;;;;;x
+nurgle_lore.301_desc;The forces of the daemonic shamble forth accross the lands, tearing, biting and gnawing, spreading a sickness that kills what it touches.!;;;;;;;;;;;;x
+nurgle_lore.301a;Forwards!;;;;;;;;;;;;x
+
+nurgle_lore.400;Maw of Disease.;;;;;;;;;;;;x
+nurgle_lore.400_desc;An unholy maw of swirling miasma stews forth to pollute the lands of the living.;;;;;;;;;;;;x
+nurgle_lore.400a;You shall not survive!;;;;;;;;;;;;x
+
+nurgle_lore.401;Sickness may it take you!;;;;;;;;;;;;x
+nurgle_lore.401_desc;The powers of decay, rot and consume, all the lands around now suffer the intolerable agonies of the sicknesses devised by the unholy intellect of the loving Grandfather!;;;;;;;;;;;;x
+nurgle_lore.401a;DEATH!;;;;;;;;;;;;x
+
+nurgle_lore.500;Magic is Might!;;;;;;;;;;;;x
+nurgle_lore.500_desc;Your magic has bubbled in your fingertips, leaving a growing feeling of the arcane, it is time now to choose what action you shall undertake next.;;;;;;;;;;;;x
+nurgle_lore.500a;It is time to cast again!;;;;;;;;;;;;x
+nurgle_lore.500b;I am done with spell casting.;;;;;;;;;;;;x
+
+nurgle_lore.501;You Magic has been Dispeled.;;;;;;;;;;;;x
+nurgle_lore.501_desc;To your horror your magic has been dispelled by an enemey caster.;;;;;;;;;;;;x
+nurgle_lore.501a;Curses!.;;;;;;;;;;;;x
+
+nurgle_lore.503;Magic is Might!;;;;;;;;;;;;x
+nurgle_lore.503_desc;The smell of power hangs in the air, do you possess the daring and strength to cast again?.;;;;;;;;;;;;x
+nurgle_lore.503a;It is time to cast again!;;;;;;;;;;;;x
+nurgle_lore.503b;I am done with spell casting.;;;;;;;;;;;;x

@@ -1,0 +1,61 @@
+z_death_lore_magic_phase;Lore of Death Magic Phase.;;;;;;;;;;;;x
+z_death_lore_magic_phase_desc;Begin [Root.GetBestName]'s Lore of Death battle phase.;;;;;;;;;;;;x
+
+death_lore.1;The Winds of Magic!;;;;;;;;;;;;x
+death_lore.1_desc;The swirling essence of Chaos itself, the very winds of magic itelf flows through you with the energy of that accursed void. Their swirling energies are potent and rich, and the air crackles with these arcane and unfathomable energies of pure corruption, testing, tasting, twisting all the mundane world. Now is the moment of choice, the moment in which you must choose what to do next, to risk your very soul, and devestate your foe, or let these hideously uncontrollable energies subside.;;;;;;;;;;;;x
+death_lore.1a;I call on the winds!;;;;;;;;;;;;x
+death_lore.1b;I shall not cast at this time.;;;;;;;;;;;;x
+death_lore.1c;I like the energies to cast at this time. ;;;;;;;;;;;;x
+
+death_lore.2;Lore of Death.;;;;;;;;;;;;x
+death_lore.2_desc;The Lore of Death conjures the raw essence of the most feared of all forces, Death. By calling forth this power you can not just destroy armies, but prevent movement of troops and slaughter commanders.;;;;;;;;;;;;x
+death_lore.2a;Death Bolt.;;;;;;;;;;;;x
+death_lore.2b;Ward of Death.;;;;;;;;;;;;x
+death_lore.2c;Death's Majesty.;;;;;;;;;;;;x
+death_lore.2d;Black Sphere of Xerxes.;;;;;;;;;;;;x
+
+death_lore.100;Bolt of Death.;;;;;;;;;;;;x
+death_lore.100_desc;Calling up the very stuff of death, you launch it forth at your enemies generals!.;;;;;;;;;;;;x
+death_lore.100a;Death awaits you all!;;;;;;;;;;;;x
+
+death_lore.101;A blast from death!.;;;;;;;;;;;;x
+death_lore.101_desc;Life rapidly departs your victims, as the fullness of death consumes them.;;;;;;;;;;;;x
+death_lore.101a;Die!;;;;;;;;;;;;x
+
+death_lore.200;Ward of Death!;;;;;;;;;;;;x
+death_lore.200_desc;Summoning forth the essence of death around your battle, you prevent all forces from coming to your enemies aid.;;;;;;;;;;;;x
+death_lore.200a;You are stuck in here with me!;;;;;;;;;;;;x
+
+death_lore.201;Death is my shield!;;;;;;;;;;;;x
+death_lore.201_desc;The oppressive nature of death prevents all repreive!;;;;;;;;;;;;x
+death_lore.201a;For death's might!;;;;;;;;;;;;x
+
+death_lore.300;Imperious Will of the Dead.;;;;;;;;;;;;x
+death_lore.300_desc;By calling upon the power of death, you can disrupt the very connection a necromancer possesses with his undead minions, senidng them back to the dead.;;;;;;;;;;;;x
+death_lore.300a;Death to the unclean!;;;;;;;;;;;;x
+
+death_lore.301;What is dead should stay dead!;;;;;;;;;;;;x
+death_lore.301_desc;Undoing the sinews of power that animate the dead, the death mage strikes at the essence of the necromancer's power !;;;;;;;;;;;;x
+death_lore.301a;Vlad say what now?;;;;;;;;;;;;x
+	
+death_lore.400;Purple Sun of Xerxes.;;;;;;;;;;;;x
+death_lore.400_desc;You unleash perhaps the most potent weapon of magic in existance, this roaming vortex randomly moves and slaughters what it finds.;;;;;;;;;;;;x
+death_lore.400a;PREPARE YOUR ANUS!;;;;;;;;;;;;x
+
+death_lore.401;BIG BLACK BALLS OF DOOM!;;;;;;;;;;;;x
+death_lore.401_desc;The Vortex of power spirals outside of your concious control, consuming your enemies as it finds them!;;;;;;;;;;;;x
+death_lore.401a;Can any now stand before me!;;;;;;;;;;;;x
+
+death_lore.500;Magic is Might!;;;;;;;;;;;;x
+death_lore.500_desc;Your magic has bubbled in your fingertips, leaving a growing feeling of the arcane, it is time now to choose what action you shall undertake next.;;;;;;;;;;;;x
+death_lore.500a;It is time to cast again!;;;;;;;;;;;;x
+death_lore.500b;I am done with spell casting.;;;;;;;;;;;;x
+
+death_lore.501;You Magic has been Dispeled.;;;;;;;;;;;;x
+death_lore.501_desc;To your horror your magic has been dispelled by an enemey caster.;;;;;;;;;;;;x
+death_lore.501a;Curses!.;;;;;;;;;;;;x
+
+death_lore.503;Magic is Might!;;;;;;;;;;;;x
+death_lore.503_desc;The smell of power hangs in the air, do you possess the daring and strength to cast again?.;;;;;;;;;;;;x
+death_lore.503a;It is time to cast again!;;;;;;;;;;;;x
+death_lore.503b;I am done with spell casting.;;;;;;;;;;;;x

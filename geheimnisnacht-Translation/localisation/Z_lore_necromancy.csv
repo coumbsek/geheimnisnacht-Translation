@@ -1,0 +1,61 @@
+z_necromancy_lore_magic_phase;Lore of Necromancy Magic Phase.;;;;;;;;;;;;x
+z_necromancy_lore_magic_phase_desc;Begin [Root.GetBestName]'s Lore of Necromancy battle phase.;;;;;;;;;;;;x
+
+necromancy_lore.1;The Winds of Magic!;;;;;;;;;;;;x
+necromancy_lore.1_desc;The swirling essence of Chaos itself, the very winds of magic itelf flows through you with the energy of that accursed void. Their swirling energies are potent and rich, and the air crackles with these arcane and unfathomable energies of pure corruption, testing, tasting, twisting all the mundane world. Now is the moment of choice, the moment in which you must choose what to do next, to risk your very soul, and devestate your foe, or let these hideously uncontrollable energies subside.;;;;;;;;;;;;x
+necromancy_lore.1a;I call on the winds!;;;;;;;;;;;;x
+necromancy_lore.1b;I shall not cast at this time.;;;;;;;;;;;;x
+necromancy_lore.1c;I lack the energies to cast at this time. ;;;;;;;;;;;;x
+
+necromancy_lore.2;Lore of Necromancy.;;;;;;;;;;;;x
+necromancy_lore.2_desc;Necromancy, the unholy powers of the damned and corrupted knowledge passed down from the dreaded Nagash. Wielding the magics of Dhar, the pure wind, the battle magics of Necromancy is entirely directed towards redirecting the arcane energies that empower your undead servants, to restore, repair, those that remain, and to deal untold devestation upon your living foes!;;;;;;;;;;;;x
+necromancy_lore.2a;Imbide Life.;;;;;;;;;;;;x
+necromancy_lore.2b;Unholy Life.;;;;;;;;;;;;x
+necromancy_lore.2c;Unholy Resolve.;;;;;;;;;;;;x
+necromancy_lore.2d;Damnation of the Dead.;;;;;;;;;;;;x
+
+necromancy_lore.100;Imbide Life.;;;;;;;;;;;;x
+necromancy_lore.100_desc;Consuming the very essence of life from your foes, you empower your armies to further fight onwards!;;;;;;;;;;;;x
+necromancy_lore.100a;I consume all!;;;;;;;;;;;;x
+
+necromancy_lore.101;Imbide Life.;;;;;;;;;;;;x
+necromancy_lore.101_desc;Death creeps among your enemies, as soldiers fall without even a mark to their flesh. And still your army grows, invigorated by the enermies you have leached from your foes;;;;;;;;;;;;x
+necromancy_lore.101a;Fear!;;;;;;;;;;;;x
+
+necromancy_lore.200;Unholy Life.;;;;;;;;;;;;x
+necromancy_lore.200_desc;Directing your attention to the physical wellbing of the vessels of your power, you let their minds suffer, while they bodies renew!.;;;;;;;;;;;;x
+necromancy_lore.200a;Onwards, To Victory!;;;;;;;;;;;;x
+
+necromancy_lore.201;Unholy Life!;;;;;;;;;;;;x
+necromancy_lore.201_desc;Your soldiers are renewed, while the temporary lapse in judgement and drive may have made your situation suffer, now your forces are restored in body!;;;;;;;;;;;;x
+necromancy_lore.201a;Unlife is my gift!;;;;;;;;;;;;x
+
+necromancy_lore.300;Unholy Resolve.;;;;;;;;;;;;x
+necromancy_lore.300_desc;Letting the weak falter, your powers flow into raising the resiliance and the essence of battle in those forces of yours that remain.;;;;;;;;;;;;x
+necromancy_lore.300a;By holding this point, I shall be victorious!;;;;;;;;;;;;x
+
+necromancy_lore.301;Unholy Resolve!;;;;;;;;;;;;x
+necromancy_lore.301_desc;The dark will that drives your forces forwards is strengthened and renewed, bringing greater focus to your intentions!;;;;;;;;;;;;x
+necromancy_lore.301a;Forwards!;;;;;;;;;;;;x
+
+necromancy_lore.400;Damnation of the Dead.;;;;;;;;;;;;x
+necromancy_lore.400_desc;By pulling back the essence that drives your minions, letting their useless corpses fall to the ground, you prepare a mighty blast of nether energies.;;;;;;;;;;;;x
+necromancy_lore.400a;You shall not survive!;;;;;;;;;;;;x
+
+necromancy_lore.401;Damnation of the Dead!;;;;;;;;;;;;x
+necromancy_lore.401_desc;The unholy furies of your dark powers strikes down from the heavens, inflicting untold devestation on all who stood in its wake!;;;;;;;;;;;;x
+necromancy_lore.401a;DEATH!;;;;;;;;;;;;x
+
+necromancy_lore.500;Magic is Might!;;;;;;;;;;;;x
+necromancy_lore.500_desc;Your magic has bubbled in your fingertips, leaving a growing feeling of the arcane, it is time now to choose what action you shall undertake next.;;;;;;;;;;;;x
+necromancy_lore.500a;It is time to cast again!;;;;;;;;;;;;x
+necromancy_lore.500b;I am done with spell casting.;;;;;;;;;;;;x
+
+necromancy_lore.501;You Magic has been Dispeled.;;;;;;;;;;;;x
+necromancy_lore.501_desc;To your horror your magic has been dispelled by an enemey caster.;;;;;;;;;;;;x
+necromancy_lore.501a;Curses!.;;;;;;;;;;;;x
+
+necromancy_lore.503;Magic is Might!;;;;;;;;;;;;x
+necromancy_lore.503_desc;The smell of power hangs in the air, do you possess the daring and strength to cast again?.;;;;;;;;;;;;x
+necromancy_lore.503a;It is time to cast again!;;;;;;;;;;;;x
+necromancy_lore.503b;I am done with spell casting.;;;;;;;;;;;;x

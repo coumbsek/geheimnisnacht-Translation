@@ -1,0 +1,120 @@
+z_itemsystem.1;Magic Item Options;x
+z_itemsystem.1_desc;Magic items are artifacts of intense power. These tools of unequaled power are tools that you often wish to share among your servants, or need to ritualy use to bring about their true purpose.;x
+z_itemsystem.1a;Gift Magic Items;x
+z_itemsystem.1d;Close Menu;x
+z_itemsystem.1000;Gift Items;x
+z_itemsystem.1000_desc;There are many kinds of magic items, weapons, armour, artifacts and consumables, choose here which kind of item you wish to gift.;x
+z_itemsystem.1000a;Weapons;x
+z_itemsystem.1000b;Armour;x
+z_itemsystem.1000c;Artifacts;
+z_itemsystem.1000d;Consumables;x
+
+z_itemsystem.1100;Weapons;x
+z_itemsystem.1100_desc;Choose which kind of weapon, be it sword, hammer, axe or stave?;x
+z_itemsystem.1100a;Sword;x
+z_itemsystem.1100b;Hammer/Axe;x
+z_itemsystem.1100c;Staves;x
+z_itemsystem.1100d;Back;x
+
+
+
+z_itemsystem.1110;Swords;x
+z_itemsystem.1110_desc;Magic Swords are perhaps the most common of all magic weapons;x
+z_itemsystem.1110a;Sword 1;x
+z_itemsystem.1110b;Sword 2;x
+z_itemsystem.1110c;Sword 3;x
+z_itemsystem.1110d;Next Page;x
+z_itemsystem.1111;Swords;x
+z_itemsystem.1111_desc;Magic Swords are perhaps the most common of all magic weapons;x
+z_itemsystem.1111a;Sword 4;x
+z_itemsystem.1111b;Sword 5;x
+z_itemsystem.1111c;Sword 3;x
+z_itemsystem.1111d;Weapons Menu;x
+
+
+z_itemsystem.1130;Staves;x
+z_itemsystem.1130_desc;Staves, the chosen weapon of the wizard, these provide a tangible boost in spell casting power, increasing the amount of spell points a wizard has.;x
+z_itemsystem.1130a;Staff 1;x
+z_itemsystem.1130b;Staff 2;x
+z_itemsystem.1130c;Staff 3;x
+z_itemsystem.1130d;Next Page;x
+z_itemsystem.1131;Staves;x
+z_itemsystem.1131_desc;Staves, the chosen weapon of the wizard, these provide a tangible boost in spell casting power, increasing the amount of spell points a wizard has.;x
+z_itemsystem.1131a;Staff 4;x
+z_itemsystem.1131b;Staff 5;x
+z_itemsystem.1131c;Staff 3;x
+z_itemsystem.1131d;Weapons Menu;x
+
+
+z_itemsystem.1200;Magic Armours;x
+z_itemsystem.1200_desc;To use magic to empower ones defenses is a pretty common goal, and as such there are many helms, breastplates and even shields that bare significant enchantment;x
+z_itemsystem.1200a;Helms;x
+z_itemsystem.1200b;Breast Plates;x
+z_itemsystem.1200c;Shields;x
+z_itemsystem.1200d;Menu;x
+ 
+
+z_itemsystem.1210;Helms;x
+z_itemsystem.1210_desc;To enchant a helm with magic is to provide resilance to the head or to enhance your magical abilities!;x
+z_itemsystem.1210a;Mages Crown;x
+z_itemsystem.1210b;;x
+z_itemsystem.1210c;;x
+z_itemsystem.1210d;Armour Menu;x
+z_itemsystem.1211;Helms;x
+z_itemsystem.1211_desc;To enchant a helm with magic is to provide resilance to the head or to enhance your magical abilities!;x
+z_itemsystem.1211a;;x
+z_itemsystem.1211b;;x
+z_itemsystem.1211c;;x
+z_itemsystem.1211d;Armour Menu;x
+
+z_itemsystem.1300;Magic Talismens;x
+z_itemsystem.1300_desc;Magic Talismens are without doubt one of the most prolific kinds of crafted itmes. Including such things as banners, tomes, amulets and rings, these items can do much to empower a character.;x
+z_itemsystem.1300a;Rings;x
+z_itemsystem.1300b;Amulets;x
+z_itemsystem.1300c;Tomes/Banners;
+z_itemsystem.1300d;Main Menu. 
+
+
+z_itemsystem.1310;Rings;x
+z_itemsystem.1310_desc;Magic rings provide many functions, including boosting of armies, and the improving of your offensive magic casting abilities;x
+z_itemsystem.1310a;
+z_itemsystem.1310b;
+z_itemsystem.1310c;
+z_itemsystem.1310d;Next Page;x
+
+z_itemsystem.1311;Rings;x
+z_itemsystem.1311_desc;Magic rings provide many functions, including boosting of armies, and the improving of your offensive magic casting abilities;x
+z_itemsystem.1311a;Mages Ring 1;x
+z_itemsystem.1311b;Mages Ring 2;x
+z_itemsystem.1311c;Mages Ring 3;x
+z_itemsystem.1311d;Talismen Menu;x
+
+z_itemsystem.1320;Amulets;x
+z_itemsystem.1320_desc;Magic rings provide many functions, including boosting of armies, and the improving of your offensive magic casting abilities;x
+z_itemsystem.1320a;
+z_itemsystem.1320b;
+z_itemsystem.1320c;
+z_itemsystem.1320d;Next Page;x
+
+z_itemsystem.1321;Amulets;x
+z_itemsystem.1321_desc;Magic rings provide many functions, including boosting of armies, and the improving of your offensive magic casting abilities;x
+z_itemsystem.1321a;Mages Ring 1;x
+z_itemsystem.1321b;Mages Ring 2;x
+z_itemsystem.1321c;Mages Ring 3;x
+z_itemsystem.1321d;Talismen Menu;x
+
+
+
+z_itemsystem.1330;Tomes/Banners;x
+z_itemsystem.1330_desc;Magic rings provide many functions, including boosting of armies, and the improving of your offensive magic casting abilities;x
+z_itemsystem.1330a;
+z_itemsystem.1330b;
+z_itemsystem.1330c;
+z_itemsystem.1330d;Next Page;x
+
+z_itemsystem.1331;Tomes/Banners;x
+z_itemsystem.1331_desc;Magic rings provide many functions, including boosting of armies, and the improving of your offensive magic casting abilities;x
+z_itemsystem.1331a;Mages Ring 1;x
+z_itemsystem.1331b;Mages Ring 2;x
+z_itemsystem.1331c;Mages Ring 3;x
+z_itemsystem.1331d;Talismen Menu;x

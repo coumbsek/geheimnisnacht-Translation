@@ -1,0 +1,81 @@
+z_life_lore_magic_phase;Lore of Life Magic Phase.;;;;;;;;;;;;x
+z_life_lore_magic_phase_desc;Begin [Root.GetBestName]'s Lore of Life battle phase.;;;;;;;;;;;;x
+
+
+life_lore.1;The Winds of Magic!;;;;;;;;;;;;x
+life_lore.1_desc;The swirling essence of Chaos itself, the very winds of magic itelf flows through you with the energy of that accursed void. Their swirling energies are potent and rich, and the air crackles with these arcane and unfathomable energies of pure corruption, testing, tasting, twisting all the mundane world. Now is the moment of choice, the moment in which you must choose what to do next, to risk your very soul, and devestate your foe, or let these hideously uncontrollable energies subside.;;;;;;;;;;;;x
+life_lore.1a;I call on the winds!;;;;;;;;;;;;x
+life_lore.1b;I shall not cast at this time.;;;;;;;;;;;;x
+life_lore.1c;I like the energies to cast at this time. ;;;;;;;;;;;;x
+
+
+
+
+life_lore.2;Lore of Life.;;;;;;;;;;;;x
+life_lore.2_desc;To call upon the Lore of Life, is to envoke the very essence that moves men, beasts and plants. To call upon the lore of life is to bring blazing renewal in the face of the enemy, letting your armies regenerate at rates hitherto unimagined.;;;;;;;;;;;;x
+life_lore.2a;Grasping Vine.;;;;;;;;;;;;x
+life_lore.2b;Life Blossom.;;;;;;;;;;;;x
+life_lore.2c;Overgrowth.;;;;;;;;;;;;x
+life_lore.2d;Resurrection.;;;;;;;;;;;;x
+
+
+
+life_lore.100;Grasping Vine.;;;;;;;;;;;;x
+life_lore.100_desc;The grasping vines wraps your victims and slowly but assuredly crushes the life from them.;;;;;;;;;;;;x
+life_lore.100a;DIE!;;;;;;;;;;;;x
+
+life_lore.101;Crush, CRUSH! CRUSH!.;;;;;;;;;;;;x
+life_lore.101_desc;The vines bind and twist and tangle, squeezing life, snapping bones, crushing muscle!.;;;;;;;;;;;;x
+life_lore.101a;MUAHAHAHA!;;;;;;;;;;;;x
+
+
+
+
+life_lore.200;Life Blossom.;;;;;;;;;;;;x
+life_lore.200_desc;The very essence of life itself bubbles throughout your army, rekniting bone, and restoring flesh!.;;;;;;;;;;;;x
+life_lore.200a;Life Anew!;;;;;;;;;;;;x
+
+
+life_lore.201;The POWER OF LIFE!;;;;;;;;;;;;x
+life_lore.201_desc;Like nothing you have ever imagined, with each day your armies are further renewed, none shall stand before you!;;;;;;;;;;;;x
+life_lore.201a;Life is the glory of war!;;;;;;;;;;;;x
+
+
+
+
+life_lore.300;Overgrowth.;;;;;;;;;;;;x
+life_lore.300_desc;Overwelmingly the forces of life rush and flow, moving for miles around, enfusing your armies with vitality, and strangling slowly your enemies!.;;;;;;;;;;;;x
+life_lore.300a;In life we find death!;;;;;;;;;;;;x
+
+life_lore.301;RENEWAL!;;;;;;;;;;;;x
+life_lore.301_desc;The fortunes of war have shifted slowly, as your collected armies feel life itself restored, and your enemies know the horrors of life unrestrained!;;;;;;;;;;;;x
+life_lore.301a;In life we find power!;;;;;;;;;;;;x
+
+
+
+
+
+
+life_lore.400;Ressurection .;;;;;;;;;;;;x
+life_lore.400_desc;While other spells may bring back dead soldiers, only this unspeakable power can give you new soldiers entirely!.;;;;;;;;;;;;x
+life_lore.400a;I am become GOD!;;;;;;;;;;;;x
+
+life_lore.401;From my throne, yea all are as rodents!;;;;;;;;;;;;x
+life_lore.401_desc;Your citizens and levies are rapidly restored to the fullness of their beginings from their depleted states!;;;;;;;;;;;;x
+life_lore.401a;Can any now stand before me!;;;;;;;;;;;;x
+
+
+life_lore.500;Magic is Might!;;;;;;;;;;;;x
+life_lore.500_desc;Your magic has bubbled in your fingertips, leaving a growing feeling of the arcane, it is time now to choose what action you shall undertake next.;;;;;;;;;;;;x
+life_lore.500a;It is time to cast again!;;;;;;;;;;;;x
+life_lore.500b;I am done with spell casting.;;;;;;;;;;;;x
+
+life_lore.501;You Magic has been Dispeled.;;;;;;;;;;;;x
+life_lore.501_desc;To your horror your magic has been dispelled by an enemey caster.;;;;;;;;;;;;x
+life_lore.501a;Curses!.;;;;;;;;;;;;x
+
+
+life_lore.503;Magic is Might!;;;;;;;;;;;;x
+life_lore.503_desc;The smell of power hangs in the air, do you possess the daring and strength to cast again?.;;;;;;;;;;;;x
+life_lore.503a;It is time to cast again!;;;;;;;;;;;;x
+life_lore.503b;I am done with spell casting.;;;;;;;;;;;;x

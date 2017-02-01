@@ -1,0 +1,16 @@
+dispell.1;Dispel Magic.;;;;;;;;;;;;x
+dispell.1_desc;Your nefarious foe has unleashed their evil magics upon you, do you wish to attempt to dispel their magic?.;;;;;;;;;;;;x
+dispell.1a;Yes.;;;;;;;;;;;;x
+dispell.1b;No.;;;;;;;;;;;;x
+dispell.2;Magic Duel.;;;;;;;;;;;;x
+dispell.2_desc;Curses, [event_target:magic_dispeler.GetBestName] has attempted to stop your spell!.;;;;;;;;;;;;x
+dispell.2a;Yes.;;;;;;;;;;;;x
+dispell.2b;No.;;;;;;;;;;;;x
+dispell.3;Magic Duel.;;;;;;;;;;;;x
+dispell.3_desc;Curses, Your enemy, the evil [event_target:magic_caster.GetBestName] has engaged you in a deeper contest of power.;;;;;;;;;;;;x
+dispell.3a;Yes.;;;;;;;;;;;;x
+dispell.3b;No.;;;;;;;;;;;;x
+dispell.4;Magic Duel.;;;;;;;;;;;;x
+dispell.4_desc;The battle of minds continues, surely [event_target:magic_dispeler.GetBestName] must be growing weak by now, do you wish to continue the battle.;;;;;;;;;;;;x
+dispell.4a;Yes.;;;;;;;;;;;;x
+dispell.4b;No.;;;;;;;;;;;;x

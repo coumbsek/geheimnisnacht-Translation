@@ -1,0 +1,82 @@
+z_light_lore_magic_phase;Lore of Light Magic Phase.;;;;;;;;;;;;x
+z_light_lore_magic_phase_desc;Begin [Root.GetBestName]'s Lore of Light battle phase.;;;;;;;;;;;;x
+
+
+light_lore.1;The Winds of Magic!;;;;;;;;;;;;x
+light_lore.1_desc;The swirling essence of Chaos itself, the very winds of magic itelf flows through you with the energy of that accursed void. Their swirling energies are potent and rich, and the air crackles with these arcane and unfathomable energies of pure corruption, testing, tasting, twisting all the mundane world. Now is the moment of choice, the moment in which you must choose what to do next, to risk your very soul, and devestate your foe, or let these hideously uncontrollable energies subside.;;;;;;;;;;;;x
+light_lore.1a;I call on the winds!;;;;;;;;;;;;x
+light_lore.1b;I shall not cast at this time.;;;;;;;;;;;;x
+light_lore.1c;I like the energies to cast at this time. ;;;;;;;;;;;;x
+
+
+
+
+light_lore.2;Lore of Light.;;;;;;;;;;;;x
+light_lore.2_desc;To wield the Lore of Light is to call upon the primal forces of the light, to cut down the daemon were it stands, and to inspire the most stout resistance in your entire army!;;;;;;;;;;;;x
+light_lore.2a;Holy Fire.;;;;;;;;;;;;x
+light_lore.2b;Speed of Light.;;;;;;;;;;;;x
+light_lore.2c;Wall of Light.;;;;;;;;;;;;x
+light_lore.2d;Light of the HEAVENS!;;;;;;;;;;;;x
+
+
+
+light_lore.100;Holy Fire.;;;;;;;;;;;;x
+light_lore.100_desc;A blast of sacred fire leaves your hands, inflicting truly horrific harm unto the daemonic!;;;;;;;;;;;;x
+light_lore.100a;Purification!;;;;;;;;;;;;x
+
+
+light_lore.101;Holy Fire.;;;;;;;;;;;;x
+light_lore.101_desc;The screams of the daemonic fill your ears, as the holy light strips flesh from bone!.;;;;;;;;;;;;x
+light_lore.101a;Death to the Unclean!;;;;;;;;;;;;x
+
+
+
+light_lore.200;Speed of Light.;;;;;;;;;;;x
+light_lore.200_desc;You empower the force of your armies, enabling them to strike with unrivaled offense!.;;;;;;;;;;;;x
+light_lore.200a;Onwards, To Victory!;;;;;;;;;;;;x
+
+
+light_lore.201;Like a flash!;;;;;;;;;;;;x
+light_lore.201_desc;Your army, empowered into motion, quickly and decisively overcomes all who dares face it on the field of battle!;;;;;;;;;;;;x
+light_lore.201a;CHARRRGGGEEEE!;;;;;;;;;;;;x
+
+
+
+
+light_lore.300;Wall of Light.;;;;;;;;;;;;x
+light_lore.300_desc;The light empowers your armies, making them an unmovable wall in the face of the enemy!.;;;;;;;;;;;;x
+light_lore.300a;I shield my devotees with my soul!;;;;;;;;;;;;x
+
+light_lore.301;A Barrier of the Soul!!;;;;;;;;;;;;x
+light_lore.301_desc;The powers of light make your army an immovable object, as the hordes of the enemy falter around their eternal bulwark!;;;;;;;;;;;;x
+light_lore.301a;GLORY!;;;;;;;;;;;;x
+
+
+
+
+
+
+light_lore.400;Light of the Heavens.;;;;;;;;;;;;x
+light_lore.400_desc;The very blazing light of the heavens itself descends, striking foes and healing freinds within a single province radius.;;;;;;;;;;;;x
+light_lore.400a;Salvation!;;;;;;;;;;;;x
+
+light_lore.401;The Light without End!;;;;;;;;;;;;x
+light_lore.401_desc;The heart of your army restored, your forces stand ready to resist all who shall come!;;;;;;;;;;;;x
+light_lore.401a;For Life!;;;;;;;;;;;;x
+
+
+light_lore.500;Magic is Might!;;;;;;;;;;;;x
+light_lore.500_desc;Your magic has bubbled in your fingertips, leaving a growing feeling of the arcane, it is time now to choose what action you shall undertake next.;;;;;;;;;;;;x
+light_lore.500a;It is time to cast again!;;;;;;;;;;;;x
+light_lore.500b;I am done with spell casting.;;;;;;;;;;;;x
+
+light_lore.501;You Magic has been Dispeled.;;;;;;;;;;;;x
+light_lore.501_desc;To your horror your magic has been dispelled by an enemey caster.;;;;;;;;;;;;x
+light_lore.501a;Curses!.;;;;;;;;;;;;x
+
+
+
+light_lore.503;Magic is Might!;;;;;;;;;;;;x
+light_lore.503_desc;The smell of power hangs in the air, do you possess the daring and strength to cast again?.;;;;;;;;;;;;x
+light_lore.503a;It is time to cast again!;;;;;;;;;;;;x
+light_lore.503b;I am done with spell casting.;;;;;;;;;;;;x

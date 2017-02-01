@@ -1,0 +1,61 @@
+z_fire_lore_magic_phase;Lore of Fire Magic Phase.;;;;;;;;;;;;x
+z_fire_lore_magic_phase_desc;Begin [Root.GetBestName]'s Lore of Fire battle phase.;;;;;;;;;;;;x
+
+fire_lore.1;The Winds of Magic!;;;;;;;;;;;;x
+fire_lore.1_desc;The swirling essence of Chaos itself, the very winds of magic itelf flows through you with the energy of that accursed void. Their swirling energies are potent and rich, and the air crackles with these arcane and unfathomable energies of pure corruption, testing, tasting, twisting all the mundane world. Now is the moment of choice, the moment in which you must choose what to do next, to risk your very soul, and devestate your foe, or let these hideously uncontrollable energies subside.;;;;;;;;;;;;x
+fire_lore.1a;I call on the winds!;;;;;;;;;;;;x
+fire_lore.1b;I shall not cast at this time.;;;;;;;;;;;;x
+fire_lore.1c;I like the energies to cast at this time. ;;;;;;;;;;;;x
+
+fire_lore.2;Lore of Fire.;;;;;;;;;;;;x
+fire_lore.2_desc;To call upon the Lore of Fire, is to call upon the most untamed and wild of all magics, for fire cares very little for what it burns, only that everything burns. This magic is beyond true mastery, and only a foolhardy mage would ever believe themselves the true master of the fires!;;;;;;;;;;;;x
+fire_lore.2a;Fireball.;;;;;;;;;;;;x
+fire_lore.2b;Burning Blade.;;;;;;;;;;;;x
+fire_lore.2c;Blast of Flame.;;;;;;;;;;;;x
+fire_lore.2d;Firestorm.;;;;;;;;;;;;x
+
+fire_lore.100;Fireball.;;;;;;;;;;;;x
+fire_lore.100_desc;Calling the most basic of all instincts of fire, you let your enemy taste the capriciousness of the flames!.;;;;;;;;;;;;x
+fire_lore.100a;Fire!;;;;;;;;;;;;x
+
+fire_lore.101;BURNING! BURNING! BURNING!.;;;;;;;;;;;;x
+fire_lore.101_desc;The fires cling to the flesh, spreading, ever spreading, till naught but ash remains!.;;;;;;;;;;;;x
+fire_lore.101a;MUAHAHAHA!;;;;;;;;;;;;x
+
+fire_lore.200;Burning Blade!.;;;;;;;;;;;;x
+fire_lore.200_desc;You enchant the metal blades of your army, bringing the totality of fire's purifying might with each swing or shot!.;;;;;;;;;;;;x
+fire_lore.200a;Cleave to the flame!;;;;;;;;;;;;x
+
+fire_lore.201;Agonies unbridled!;;;;;;;;;;;;x
+fire_lore.201_desc;Your armies march into battle, empowered by the furies of the Bright Lore!;;;;;;;;;;;;x
+fire_lore.201a;Fire brings the glory!;;;;;;;;;;;;x
+
+fire_lore.300;Fire Blast.;;;;;;;;;;;;x
+fire_lore.300_desc;Your enemies believe their walls shall protect them, oh how wrong art they!.;;;;;;;;;;;;x
+fire_lore.300a;Your walls crumble before the fury!;;;;;;;;;;;;x
+
+fire_lore.301;It is so Bright!!;;;;;;;;;;;;x
+fire_lore.301_desc;As stone gives way to the unending flame, you listen to the screams of the maimed!;;;;;;;;;;;;x
+fire_lore.301a;Pretty!;;;;;;;;;;;;x
+
+fire_lore.400;Fire Storm.;;;;;;;;;;;;x
+fire_lore.400_desc;Calling forth the untamed energies of flame you let loose the conflagoration that consumes all, friend and foe.;;;;;;;;;;;;x
+fire_lore.400a;Fire is GOD!;;;;;;;;;;;;x
+
+fire_lore.401;It smells nice!;;;;;;;;;;;;x
+fire_lore.401_desc;The ash chokes the air, as untold numbers are burned to ash!;;;;;;;;;;;;x
+fire_lore.401a;Victory, she smells sweet in the air!;;;;;;;;;;;;x
+
+fire_lore.500;Magic is Might!;;;;;;;;;;;;x
+fire_lore.500_desc;Your magic has bubbled in your fingertips, leaving a growing feeling of the arcane, it is time now to choose what action you shall undertake next.;;;;;;;;;;;;x
+fire_lore.500a;It is time to cast again!;;;;;;;;;;;;x
+fire_lore.500b;I am done with spell casting.;;;;;;;;;;;;x
+
+fire_lore.501;You Magic has been Dispeled.;;;;;;;;;;;;x
+fire_lore.501_desc;To your horror your magic has been dispelled by an enemey caster.;;;;;;;;;;;;x
+fire_lore.501a;Curses!.;;;;;;;;;;;;x
+
+fire_lore.503;Magic is Might!;;;;;;;;;;;;x
+fire_lore.503_desc;The smell of power hangs in the air, do you possess the daring and strength to cast again?.;;;;;;;;;;;;x
+fire_lore.503a;It is time to cast again!;;;;;;;;;;;;x
+fire_lore.503b;I am done with spell casting.;;;;;;;;;;;;x

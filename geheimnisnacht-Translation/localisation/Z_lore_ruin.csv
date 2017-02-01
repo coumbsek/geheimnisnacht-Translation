@@ -1,0 +1,75 @@
+z_ruin_lore_magic_phase;Lore of the Horned Rat Magic Phase.;;;;;;;;;;;;x
+z_ruin_lore_magic_phase_desc;Begin [Root.GetBestName]'s Lore of the Horned Rat Magic battle phase.;;;;;;;;;;;;x
+
+ruin_lore.1;The Winds of Magic!;;;;;;;;;;;;x
+ruin_lore.1_desc;The swirling essence of Chaos itself, the very winds of magic itelf flows through you with the energy of that accursed void. Their swirling energies are potent and rich, and the air crackles with these arcane and unfathomable energies of pure corruption, testing, tasting, twisting all the mundane world. Now is the moment of choice, the moment in which you must choose what to do next, to risk your very soul, and devestate your foe, or let these hideously uncontrollable energies subside.;;;;;;;;;;;;x
+ruin_lore.1a;I call on the winds!;;;;;;;;;;;;x
+ruin_lore.1b;I shall not cast at this time.;;;;;;;;;;;;x
+ruin_lore.1c;I lack the energies to cast at this time. ;;;;;;;;;;;;x
+ruin_lore.1d;Invoke the Might of the Horned Rat!;;;;;;;;;;;;x
+ruin_lore.1d_desc;Summon the power of your God, the dreaded 13th Spell!;;;;;;;;;;;;x
+
+ruin_lore.11;The Might of the Horned Rat!;;;;;;;;;;;;x
+ruin_lore.11_desc;The true might of the mighty Horned Rat is the unspeakable horror of the 13th Spell, To call on this unfathomable power is to invite the greatest of calamaties, to risk that all important soul, your own. Still the choice is yours, do you call upon the unspeakable might of your God to spawn forth more of your ken, or do you wish to simply call forth the power that is yours, your own?.;;;;;;;;;;;;x
+ruin_lore.11a;I call upon my God!;;;;;;;;;;;;x
+ruin_lore.11b;I shall wield my own powers!;;;;;;;;;;;;x
+
+ruin_lore.2;Lore of the Horned Rat Magic.;;;;;;;;;;;;x
+ruin_lore.2_desc;The magic of the Skaven is split into two equally important tools of devestation, the perils of pestilence and the furies of the warp energies of ruin. A Warlock Engineer finds himself able to wield the powers of Ruin, while the priests of plague unleash unholy tides of pestilence.;;;;;;;;;;;;x
+ruin_lore.2a;Warp Lightning.;;;;;;;;;;;;x
+ruin_lore.2b;Cracks of Doom.;;;;;;;;;;;;x
+ruin_lore.2c;Breath of Pestilence.;;;;;;;;;;;;x
+ruin_lore.2d;Vermintide.;;;;;;;;;;;;x
+
+ruin_lore.100;Warp Lightning.;;;;;;;;;;;;x
+ruin_lore.100_desc;Summoning the unstable warp energies, the Skaven Sorcerer launches forth his chaotic energies, striking and burning with a brilliant green lightning!;;;;;;;;;;;;x
+ruin_lore.100a;Flee!;;;;;;;;;;;;x
+
+ruin_lore.101;Warp Lightning.;;;;;;;;;;;;x
+ruin_lore.101_desc;The crackling Green energy distorts and shatters, cracks and fizzles against all it touches, leaving but smoking husks in its way.;;;;;;;;;;;;x
+ruin_lore.101a;Victory!;;;;;;;;;;;;x
+
+ruin_lore.200;Cracks of Doom.;;;;;;;;;;;;x
+ruin_lore.200_desc;Mighty rents open forth in the ground, promising doom to all who stand in its way, and the walls and buildings you man-things cower within, shall prove no defense!.;;;;;;;;;;;;x
+ruin_lore.200a;MUAHAHAHA!;;;;;;;;;;;;x
+
+ruin_lore.201;Cracks of Doom!!;;;;;;;;;;;;x
+ruin_lore.201_desc;The gaping chasams reach forth to claim the living, as the walls and buildings of your defenses crumble to the ground!;;;;;;;;;;;;x
+ruin_lore.201a;DOOM! DOOM! DOOM!;;;;;;;;;;;;x
+
+ruin_lore.300;Breath of Pestilence.;;;;;;;;;;;;x
+ruin_lore.300_desc;A ravaging plague billows forth from your mouth, its merest vapour means a certain death to all who inhale it, or suffer as much as tender touch.;;;;;;;;;;;;x
+ruin_lore.300a;My Breath is Death!;;;;;;;;;;;;x
+
+ruin_lore.301;Breath of Pestilence!!;;;;;;;;;;;;x
+ruin_lore.301_desc;The Black Cloud of Pesitilence carries within it the dreaded pox, infecting, tormenting and corrupting. Such is the way of my power, such is the fate of my enemies.;;;;;;;;;;;;x
+ruin_lore.301a;Life is gone with the air from my lungs!;;;;;;;;;;;;x
+
+ruin_lore.400;Vermintide.;;;;;;;;;;;;x
+ruin_lore.400_desc;From the very pits, a horde of mutated beasts march forth at your command, knowing not pain or weariness, they simply hunger for the flesh of the living.;;;;;;;;;;;;x
+ruin_lore.400a;Onwards my minions!;;;;;;;;;;;;x
+
+ruin_lore.401;Vermintide!;;;;;;;;;;;;x
+ruin_lore.401_desc;Lumbering forth, your mighty servants crash through your opponents, bring naught but devestation to all that seek to hold back the tide!;;;;;;;;;;;;x
+ruin_lore.401a;Charge!;;;;;;;;;;;;x
+
+ruin_lore.450;The Dreaded 13th Spell.;;;;;;;;;;;;x
+ruin_lore.450_desc;As you begin your incantion, you call forth to your mighty horned God, to the father of the untold pestilence, the lord of unconcealed malice, your own sacred forbiden father.;;;;;;;;;;;;x
+ruin_lore.450a;For the Horned Rat!;;;;;;;;;;;;x
+
+ruin_lore.451;My kind as innumerable as the stars!;;;;;;;;;;;;x
+ruin_lore.451_desc;Your foe is stricken, horrified, paniced, as many in their number find themselves struck by the unholy majesty of the father of your race! Behold, the unspeakable power of the Grey Seer!;;;;;;;;;;;;x
+ruin_lore.451a;My Power!;;;;;;;;;;;;x
+
+ruin_lore.500;Magic is Might!;;;;;;;;;;;;x
+ruin_lore.500_desc;Your magic has bubbled in your fingertips, leaving a growing feeling of the arcane.;;;;;;;;;;;;x
+ruin_lore.500a;I am Power!.;;;;;;;;;;;;x
+
+ruin_lore.501;You Magic has been Dispeled.;;;;;;;;;;;;x
+ruin_lore.501_desc;To your horror your magic has been dispelled by an enemey caster.;;;;;;;;;;;;x
+ruin_lore.501a;Curses!.;;;;;;;;;;;;x
+
+ruin_lore.503;Magic is Might!;;;;;;;;;;;;x
+ruin_lore.503_desc;The smell of power hangs in the air, do you possess the daring and strength to cast again?.;;;;;;;;;;;;x
+ruin_lore.503a;It is time to cast again!;;;;;;;;;;;;x
+ruin_lore.503b;I am done with spell casting.;;;;;;;;;;;;x

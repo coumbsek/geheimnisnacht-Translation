@@ -1,0 +1,79 @@
+z_high_magic_lore_magic_phase;High Magic Magic Phase.;;;;;;;;;;;;x
+z_high_magic_lore_magic_phase_desc;Begin [Root.GetBestName]'s High Magic battle phase.;;;;;;;;;;;;x
+
+high_magic_lore.1;The Winds of Magic!;;;;;;;;;;;;x
+high_magic_lore.1_desc;The swirling essence of Chaos itself, the very winds of magic itelf flows through you with the energy of that accursed void. Their swirling energies are potent and rich, and the air crackles with these arcane and unfathomable energies of pure corruption, testing, tasting, twisting all the mundane world. Now is the moment of choice, the moment in which you must choose what to do next, to risk your very soul, and devestate your foe, or let these hideously uncontrollable energies subside.;;;;;;;;;;;;x
+high_magic_lore.1a;I call on the winds!;;;;;;;;;;;;x
+high_magic_lore.1b;I shall not cast at this time.;;;;;;;;;;;;x
+high_magic_lore.1c;I like the energies to cast at this time. ;;;;;;;;;;;;x
+
+
+
+high_magic_lore.2;High Magic.;;;;;;;;;;;;x
+high_magic_lore.2_desc;High Magic is quite simply magic in its purest form. Those who have mastered this most challenging of lores hold the entire spectrum of magic at their command. At a High Mage's word, shimmering fields of magical energy spring into being to protect his allies, and the fires of courage can blaze anew within their hearts. The truly gifted can even becalm the Winds of Magic themselves, collapsing a raging tempest until naught but a gentle breeze remains. With but a wave of his hand, a High Mage can call down the wrath of the heavens, paralyse his foes, or immolate whole regiments with Asuryan's Fire.;;;;;;;;;;;;x
+high_magic_lore.2a;Cast Drain Magic.;;;;;;;;;;;;x
+high_magic_lore.2b;Cast Soul Quench.;;;;;;;;;;;;x
+high_magic_lore.2c;Cast Apotheosis.;;;;;;;;;;;;x
+high_magic_lore.2d;Cast Firey Convocation.;;;;;;;;;;;;x
+high_magic_lore.2a_desc;Drain Magic is the pinnacle of high magic, it prevents all magic than high magic from working in the province.;;;;;;;;;;;;x
+high_magic_lore.2b_desc;Soul Quench is a deadly magic missile.;;;;;;;;;;;;x
+high_magic_lore.2c_desc;Apotheosis is a powerful healing spell.;;;;;;;;;;;;x
+high_magic_lore.2d_desc;Firey Convocation is a powerful damage over time spell.;;;;;;;;;;;;x
+
+high_magic_lore.101;Drain Magic.;;;;;;;;;;;;x
+high_magic_lore.100_desc;The subtle weaves of the twisted winds of magic, flow and bind and combine, till at last the pinnacle of your craft is within reach, the sacred denial of magic!;;;;;;;;;;;;x
+high_magic_lore.100a;Drain Magic.;;;;;;;;;;;;x
+high_magic_lore.101;Drain Magic.;;;;;;;;;;;;x
+high_magic_lore.101_desc;Drain Magic is the pinnacle of high magic, it prevents all magic than high magic from working in the province.;;;;;;;;;;;;x
+high_magic_lore.101a;Now let's see them cast!;;;;;;;;;;;;x
+
+
+
+high_magic_lore.200;Soul Quench.;;;;;;;;;;;;x
+high_magic_lore.200_desc;Cast your powers and strike down your enemies with the fires that burn the very soul.;;;;;;;;;;;;x
+high_magic_lore.200a;Burn! Burn! Burn!;;;;;;;;;;;;x
+
+
+high_magic_lore.201;And the Fires of the Elves consume their foes!;;;;;;;;;;;;x
+high_magic_lore.201_desc;Your power consumes the life of your chosen target!;;;;;;;;;;;;x
+high_magic_lore.201a;In fire may you rest!;;;;;;;;;;;;x
+
+
+
+
+high_magic_lore.300;Apotheosis.;;;;;;;;;;;;x
+high_magic_lore.300_desc;With words of power knit anew wrent flesh, and restore hope and vigour.;;;;;;;;;;;;x
+high_magic_lore.300a;Let life bloom!;;;;;;;;;;;;x
+
+high_magic_lore.301;Restore, Regenerate, Regrow!;;;;;;;;;;;;x
+high_magic_lore.301_desc;The life giving flows of your powers restore life and heart to your armies!;;;;;;;;;;;;x
+high_magic_lore.301a;My armies are renewed!;;;;;;;;;;;;x
+
+
+
+
+
+
+high_magic_lore.400;Firey Convocation.;;;;;;;;;;;;x
+high_magic_lore.400_desc;Cast your powers and strike down your enemies with the fires that burn the very soul.;;;;;;;;;;;;x
+high_magic_lore.400a;The fires of Asuryan burn!;;;;;;;;;;;;x
+
+high_magic_lore.401;Burning, ever burning, life becomes death!;;;;;;;;;;;;x
+high_magic_lore.401_desc;The greatest hell Elven magic can conjure has been set forth, you can only watch in horror as the world itself turns to ash before Asuryan's fury!;;;;;;;;;;;;x
+high_magic_lore.401a;Let fire consume your soul!;;;;;;;;;;;;x
+
+
+high_magic_lore.500;Magic is Might!;;;;;;;;;;;;x
+high_magic_lore.500_desc;Your magic has bubbled in your fingertips, leaving a growing feeling of the arcane, it is time now to choose what action you shall undertake next.;;;;;;;;;;;;x
+high_magic_lore.500a;It is time to cast again!;;;;;;;;;;;;x
+high_magic_lore.500b;I am done with spell casting.;;;;;;;;;;;;x
+
+high_magic_lore.501;You Magic has been Dispeled.;;;;;;;;;;;;x
+high_magic_lore.501_desc;To your horror your magic has been dispelled by an enemey caster.;;;;;;;;;;;;x
+high_magic_lore.501a;Curses!.;;;;;;;;;;;;x
+
+
+high_magic_lore.503;Magic is Might!;;;;;;;;;;;;x
+high_magic_lore.503_desc;The smell of power hangs in the air, do you possess the daring and strength to cast again?.;;;;;;;;;;;;x
+high_magic_lore.503a;It is time to cast again!;;;;;;;;;;;;x
+high_magic_lore.503b;I am done with spell casting.;;;;;;;;;;;;x
